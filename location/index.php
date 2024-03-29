@@ -57,7 +57,7 @@
 							<p>ADB IMMO</p>
 						</div>
 						<div class="breatcome-title">
-							<h1>GESTION LOCATIVE</h1>
+							<h1>LOCATION</h1>
 						</div>
 					</div>
 				</div>
@@ -69,24 +69,31 @@
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
 					<div class="service-details-title">
-						<h4>Services Gestion Locative</h4>
+						<h4>Trouvez Votre Prochain Foyer avec Facilité</h4>
 					</div>
 					<div class="service-detials-discription">
-						<p>Confiez la Gestion de Vos Biens en Toute Sérénité. La gestion locative peut être une tâche complexe et chronophage. 
-							Chez ADB IMMO, nous offrons des services de gestion locative professionnels et personnalisés pour vous permettre de maximiser les revenus de votre investissement tout en minimisant les tracas et les soucis liés à la location de votre propriété.</p>
+						<p>À la recherche d'un nouveau chez-vous ? 
+							Chez ADB IMMO, nous simplifions 
+							le processus de location en vous proposant un large éventail 
+							de biens immobiliers disponibles à la location. 
+							Que vous cherchiez un appartement moderne en centre-ville, 
+							une maison spacieuse en banlieue ou un espace commercial pour 
+							votre entreprise, nous avons ce qu'il vous faut.
+						</p>
 					</div>
 					<div class="row">
 						<div class="col-lg-12 col-md-12">
 							<div class="service-list-title">
-								<h4>Notre Approche :</h4>
+								<h4>Nos Biens Immobiliers :</h4>
 							</div>
 							<div class="service-detials-list">
-								<span>Sélection Rigoureuse des Locataires :</span>
-								<p>Nous effectuons une sélection rigoureuse des locataires potentiels pour garantir des paiements ponctuels et un entretien adéquat de votre propriété.</p>
-								<span>Gestion Administrative :</span>
-								<p>Nous prenons en charge toutes les tâches administratives liées à la location, y compris la rédaction et la gestion des baux, la collecte des loyers et le suivi des paiements.</p>
-								<span>Entretien et Réparations :</span>
-								<p>Nous supervisons l'entretien régulier de votre propriété et coordonnons les réparations nécessaires pour assurer son bon état et la satisfaction de vos locataires.</p>
+								<p>Nous proposons une variété de biens immobiliers à louer, adaptés à différents besoins et préférences :</p>
+								<span>Appartements:</span>
+								<p>Des studios confortables aux grands appartements familiaux, nous avons une sélection d'appartements dans divers quartiers pour répondre à vos besoins.</p>
+								<span>Maisons:</span>
+								<p>Que vous préfériez une maison individuelle avec jardin ou une maison de ville pratique, nous avons des options pour tous les styles de vie.</p>
+								<span>Locaux Commerciaux:</span>
+								<p>À la recherche de l'espace parfait pour votre entreprise ? Explorez nos locaux commerciaux bien situés et fonctionnels.</p>
 							</div>
 						</div>
 						
@@ -94,21 +101,25 @@
 					<div class="row mt-5">
 						<div class="col-lg-4 col-md-12">
 							<div class="service-details-thumb">
-								<img src="../assets/images/resource/2795.jpg" alt="">
+								<img src="../assets/images/resource/6183488_2989100.svg" alt="">
 							</div>
 						</div>
 						<div class="col-lg-8 col-md-12" style="align-items: center;
-  justify-content: center;">
+  							justify-content: center;">
 							<div class="service-list-title">
-								<h4>Nos Services:</h4>
+								<h4>Notre Processus de Location:</h4>
 							</div>
 							<div class="service-detials-list">
-								<span>Gestion Complète :</span>
-								<p>Nous prenons en charge tous les aspects de la gestion locative, de la recherche de locataires à la gestion quotidienne des biens.</p>
-								<span>Gestion Financière :</span>
+								<span>1. Recherche </span>
+								<p>Parcourez notre catalogue en ligne pour trouver des biens immobiliers disponibles à la location qui correspondent à vos critères.
+								</p>
+								<span>2. Visites</span>
 								<p>Nous gérons les finances de votre propriété, y compris la collecte des loyers, le paiement des factures et la préparation des rapports financiers.</p>
-								<span>Gestion des Litiges :</span>
-								<p>En cas de litige avec les locataires, nous agissons en tant que médiateur pour résoudre les conflits de manière efficace et professionnelle.</p>
+								<span>3. Application</span>
+								<p>Remplissez notre formulaire de candidature et soumettez les documents nécessaires pour être pris 
+									en considération en tant que locataire.</p>
+									<span>4. Signature du Bail </span>
+								<p>Une fois votre candidature approuvée, signez le bail et préparez-vous à emménager dans votre nouveau chez-vous.</p>
 							</div>
 						</div>
 					</div>
@@ -118,17 +129,21 @@
 	</div>
 
 	<div class="catagori-area">
-		<div class="container text-center">
+		<div class="container text-center" >
 			
-				<h3 style="color:white;">Votre Partenaire de Confiance
+				<h3 style="color:white;">Votre Satisfaction, Notre Priorité
 				</h3>
-				<p style="color:white;">Nous nous engageons à offrir à nos clients un service de gestion locative <br>
-				 de haute qualité, basé sur l'intégrité, la transparence et une expertise approfondie du marché immobilier local. <br>
-				  Confiez-nous la gestion de vos biens et bénéficiez d'une tranquillité d'esprit totale.</p>
+				<p style="color:white;">Nous nous engageons à vous offrir un service personnalisé et attentif à <br> 
+				chaque étape du processus de location. Notre objectif est de vous aider à trouver le bien immobilier
+				<br> parfait qui répond à vos besoins et à vos aspirations.
+
+				Contactez-nous dès aujourd'hui pour commencer votre recherche de location et découvrir <br>
+				 comment nous pouvons vous aider à trouver votre prochain foyer.</p>
 			
 		</div>
 	</div>
 
+	<?php include('../web_parties/collection-propriete.php') ?>
 	
 
 	<!-- CONTACT ADBIMMO-->
@@ -140,9 +155,7 @@
 	<!-- FOOTER ADBIMMO -->
 	<?php include ('../web_parties/footer.php'); ?>
 	
-	<!--==================================================-->
-	<!-- Start Search Popup Area -->
-	<!--==================================================-->
+	
 	<div class="search-popup">
 		<button class="close-search style-two"><span class="flaticon-multiply"><i
 					class="far fa-times-circle"></i></span></button>

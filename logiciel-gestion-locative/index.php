@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>ADB IMMO - Gestion locative</title>
+	<title>ADB IMMO - Logiciel de gestion immobilière</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->
@@ -57,7 +57,7 @@
 							<p>ADB IMMO</p>
 						</div>
 						<div class="breatcome-title">
-							<h1>GESTION LOCATIVE</h1>
+							<h1>LOGICIEL DE GESTION LOCATIVE</h1>
 						</div>
 					</div>
 				</div>
@@ -69,46 +69,51 @@
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
 					<div class="service-details-title">
-						<h4>Services Gestion Locative</h4>
+						<h4>Simplifiez la Gestion de Vos Biens Immobiliers</h4>
 					</div>
 					<div class="service-detials-discription">
-						<p>Confiez la Gestion de Vos Biens en Toute Sérénité. La gestion locative peut être une tâche complexe et chronophage. 
-							Chez ADB IMMO, nous offrons des services de gestion locative professionnels et personnalisés pour vous permettre de maximiser les revenus de votre investissement tout en minimisant les tracas et les soucis liés à la location de votre propriété.</p>
+						<p>La gestion efficace de vos biens immobiliers nécessite des outils puissants
+							et intuitifs. Notre logiciel de gestion immobilière offre une solution 
+							complète pour simplifier la gestion de vos propriétés, optimiser vos 
+							processus et améliorer votre efficacité opérationnelle.</p>
 					</div>
 					<div class="row">
 						<div class="col-lg-12 col-md-12">
 							<div class="service-list-title">
-								<h4>Notre Approche :</h4>
+								<h4>Fonctionnalités Clés</h4>
 							</div>
 							<div class="service-detials-list">
-								<span>Sélection Rigoureuse des Locataires :</span>
-								<p>Nous effectuons une sélection rigoureuse des locataires potentiels pour garantir des paiements ponctuels et un entretien adéquat de votre propriété.</p>
-								<span>Gestion Administrative :</span>
-								<p>Nous prenons en charge toutes les tâches administratives liées à la location, y compris la rédaction et la gestion des baux, la collecte des loyers et le suivi des paiements.</p>
-								<span>Entretien et Réparations :</span>
-								<p>Nous supervisons l'entretien régulier de votre propriété et coordonnons les réparations nécessaires pour assurer son bon état et la satisfaction de vos locataires.</p>
+								<p>Notre logiciel de gestion immobilière est équipé de fonctionnalités avancées pour répondre à tous vos besoins de gestion :</p>
+								<span>Gestion des Propriétés:</span>
+								<p>Centralisez toutes les informations relatives à vos propriétés, y compris les informations des locataires, les baux, les documents, les rapports financiers et plus encore.</p>
+								<span>Gestion des Locataires:</span>
+								<p>Suivez facilement les informations des locataires, gérez les paiements des loyers, générez des avis d'échéance et communiquez avec les locataires via une plateforme intégrée.</p>
+								<span>Suivi des Paiements:</span>
+								<p>Automatisez la collecte des loyers, suivez les paiements en temps réel et générez des rapports financiers détaillés pour une meilleure visibilité sur vos finances.</p>
+								<span>Maintenance et Réparations:</span>
+								<p>Créez des tickets de maintenance, suivez les demandes de réparations, attribuez des tâches aux prestataires de services et assurez le suivi des travaux réalisés.</p>
+								<span>Portail en Ligne : </span>
+								<p>Offrez à vos locataires un portail en ligne sécurisé où ils peuvent accéder à leurs informations, effectuer des paiements en ligne, soumettre des demandes de maintenance et plus encore.</p>
 							</div>
 						</div>
 						
 					</div>
 					<div class="row mt-5">
-						<div class="col-lg-4 col-md-12">
-							<div class="service-details-thumb">
-								<img src="../assets/images/resource/2795.jpg" alt="">
-							</div>
-						</div>
-						<div class="col-lg-8 col-md-12" style="align-items: center;
-  justify-content: center;">
+						
+						<div class="col-lg-8 col-md-12" style="align-items: center; justify-content: center;">
 							<div class="service-list-title">
-								<h4>Nos Services:</h4>
+								<h4>Avantages:</h4>
 							</div>
 							<div class="service-detials-list">
-								<span>Gestion Complète :</span>
-								<p>Nous prenons en charge tous les aspects de la gestion locative, de la recherche de locataires à la gestion quotidienne des biens.</p>
-								<span>Gestion Financière :</span>
-								<p>Nous gérons les finances de votre propriété, y compris la collecte des loyers, le paiement des factures et la préparation des rapports financiers.</p>
-								<span>Gestion des Litiges :</span>
-								<p>En cas de litige avec les locataires, nous agissons en tant que médiateur pour résoudre les conflits de manière efficace et professionnelle.</p>
+								<p>En utilisant notre logiciel de gestion immobilière, vous bénéficiez de nombreux avantages :</p>
+								<span>Gain de Temps: </span>
+								<p>Automatisez les tâches répétitives et réduisez le temps passé sur la gestion administrative.</p>
+								<span>Efficacité Accrue :</span>
+								<p>Centralisez toutes vos opérations de gestion dans une seule plateforme pour une meilleure organisation et une meilleure collaboration.</p>
+								<span>Précision et Transparence :</span>
+								<p> Générez des rapports précis et détaillés pour une visibilité totale sur la performance de vos biens immobiliers.</p>
+								<span>Satisfaction des Locataires:</span>
+								<p> Offrez à vos locataires une expérience transparente et fluide avec un accès facile aux informations et aux services.</p>
 							</div>
 						</div>
 					</div>
@@ -118,13 +123,16 @@
 	</div>
 
 	<div class="catagori-area">
-		<div class="container text-center">
+		<div class="container text-center" >
 			
-				<h3 style="color:white;">Votre Partenaire de Confiance
+				<h3 style="color:white;">Forfaits de Facturation
 				</h3>
-				<p style="color:white;">Nous nous engageons à offrir à nos clients un service de gestion locative <br>
-				 de haute qualité, basé sur l'intégrité, la transparence et une expertise approfondie du marché immobilier local. <br>
-				  Confiez-nous la gestion de vos biens et bénéficiez d'une tranquillité d'esprit totale.</p>
+				<p style="color:white;">Nous proposons des forfaits de facturation mensuelle flexibles et adaptés à vos besoins spécifiques. Contactez-nous dès aujourd'hui pour découvrir 
+					comment notre logiciel de gestion immobilière peut simplifier la gestion de vos biens et vous aider à atteindre vos objectifs.
+				</p>
+				<div class="adbimmo-btn" style="display: inline-block;">
+					<a href="tarif-logiciel-gestion">Voir nos tarifs</a>
+				</div>
 			
 		</div>
 	</div>

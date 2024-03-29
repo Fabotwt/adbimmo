@@ -31,7 +31,7 @@
                                     <li><a href="../etat-des-lieux">État des lieux</a></li>
                                     <li><a href="../gestion-locative">Gestion Locative</a></li>
                                     <li><a href="../location">Location</a></li>
-                                    <li><a href="../location">Logiciel de Gestion</a></li>
+                                    <li><a href="../logiciel-gestion-locative">Logiciel de Gestion</a></li>
                                     <li><a href="../mission-syndic-de-copropriete">Mission Syndic de Copropriété</a></li>
                                     <li><a href="../visite-virtuelle">Visites Virtuelles</a></li>
                                 </ul>

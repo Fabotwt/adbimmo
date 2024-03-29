@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>ADB IMMO - Gestion locative</title>
+	<title>ADB IMMO - Mission syndic de copropriété</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->
@@ -56,8 +56,8 @@
 						<div class="breatcome-discription">
 							<p>ADB IMMO</p>
 						</div>
-						<div class="breatcome-title">
-							<h1>GESTION LOCATIVE</h1>
+						<div class="breatcome-title" style="text-transform:uppercase;">
+							<h1>Mission Syndic de Copropriété</h1>
 						</div>
 					</div>
 				</div>
@@ -69,46 +69,50 @@
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
 					<div class="service-details-title">
-						<h4>Services Gestion Locative</h4>
+						<h4>Gestion Transparente et Professionnelle de Votre Copropriété</h4>
 					</div>
 					<div class="service-detials-discription">
-						<p>Confiez la Gestion de Vos Biens en Toute Sérénité. La gestion locative peut être une tâche complexe et chronophage. 
-							Chez ADB IMMO, nous offrons des services de gestion locative professionnels et personnalisés pour vous permettre de maximiser les revenus de votre investissement tout en minimisant les tracas et les soucis liés à la location de votre propriété.</p>
+						<p>En tant que syndic de copropriété, notre mission chez ADB IMMO est de vous offrir une gestion transparente, efficace et professionnelle de votre immeuble. Nous nous engageons à assurer le bon fonctionnement de la copropriété, 
+							à préserver la valeur de votre patrimoine et à répondre aux besoins et préoccupations des copropriétaires.</p>
 					</div>
 					<div class="row">
 						<div class="col-lg-12 col-md-12">
 							<div class="service-list-title">
-								<h4>Notre Approche :</h4>
+								<h4>Nos Services</h4>
 							</div>
 							<div class="service-detials-list">
-								<span>Sélection Rigoureuse des Locataires :</span>
-								<p>Nous effectuons une sélection rigoureuse des locataires potentiels pour garantir des paiements ponctuels et un entretien adéquat de votre propriété.</p>
-								<span>Gestion Administrative :</span>
-								<p>Nous prenons en charge toutes les tâches administratives liées à la location, y compris la rédaction et la gestion des baux, la collecte des loyers et le suivi des paiements.</p>
-								<span>Entretien et Réparations :</span>
-								<p>Nous supervisons l'entretien régulier de votre propriété et coordonnons les réparations nécessaires pour assurer son bon état et la satisfaction de vos locataires.</p>
+								<p>Nous proposons une gamme complète de services de syndic de copropriété pour répondre aux besoins spécifiques de votre immeuble :</p>
+								<span>Gestion Administrative:</span>
+								<p>Nous nous chargeons de toutes les tâches administratives liées à la copropriété, 
+									y compris la convocation et la tenue des assemblées générales, la gestion des comptes, et la communication avec les copropriétaires.</p>
+								<span>Gestion Technique :</span>
+								<p>Nous supervisons l'entretien courant de l'immeuble, la gestion des travaux 
+									et des réparations, ainsi que la mise en conformité réglementaire.</p>
+								<span>Gestion Financière:</span>
+								<p>Nous gérons les finances de la copropriété, y compris la collecte des charges, le paiement des dépenses courantes, et la préparation des budgets prévisionnels.</p>
+								<span>Conseils Juridiques: </span>
+								<p>Nous vous conseillons sur les aspects juridiques de la gestion de la copropriété, y compris la rédaction et l'interprétation du règlement de copropriété et des décisions d'assemblée générale.</p>
 							</div>
 						</div>
 						
 					</div>
 					<div class="row mt-5">
-						<div class="col-lg-4 col-md-12">
-							<div class="service-details-thumb">
-								<img src="../assets/images/resource/2795.jpg" alt="">
-							</div>
-						</div>
-						<div class="col-lg-8 col-md-12" style="align-items: center;
-  justify-content: center;">
+						
+						<div class="col-lg-8 col-md-12" style="align-items: center; justify-content: center;">
 							<div class="service-list-title">
-								<h4>Nos Services:</h4>
+								<h4>Notre Approche</h4>
 							</div>
 							<div class="service-detials-list">
-								<span>Gestion Complète :</span>
-								<p>Nous prenons en charge tous les aspects de la gestion locative, de la recherche de locataires à la gestion quotidienne des biens.</p>
-								<span>Gestion Financière :</span>
-								<p>Nous gérons les finances de votre propriété, y compris la collecte des loyers, le paiement des factures et la préparation des rapports financiers.</p>
-								<span>Gestion des Litiges :</span>
-								<p>En cas de litige avec les locataires, nous agissons en tant que médiateur pour résoudre les conflits de manière efficace et professionnelle.</p>
+								<p>Notre approche de la gestion syndicale se caractérise par:</p>
+								<span>Transparence:</span>
+								<p> Nous vous tenons informés de 
+									manière transparente sur toutes les décisions et actions prises concernant la copropriété.</p>
+								<span>Professionnalisme:</span>
+								<p>Nous agissons avec professionnalisme et intégrité dans toutes nos interactions avec les copropriétaires, les prestataires et les autorités.</p>
+								<span>Réactivité:</span>
+								<p>Nous sommes à votre écoute et réagissons rapidement à toutes les demandes et préoccupations des copropriétaires.</p>
+								<span>Satisfaction des Locataires:</span>
+								<p> Offrez à vos locataires une expérience transparente et fluide avec un accès facile aux informations et aux services.</p>
 							</div>
 						</div>
 					</div>
@@ -118,13 +122,16 @@
 	</div>
 
 	<div class="catagori-area">
-		<div class="container text-center">
+		<div class="container text-center" >
 			
 				<h3 style="color:white;">Votre Partenaire de Confiance
 				</h3>
-				<p style="color:white;">Nous nous engageons à offrir à nos clients un service de gestion locative <br>
-				 de haute qualité, basé sur l'intégrité, la transparence et une expertise approfondie du marché immobilier local. <br>
-				  Confiez-nous la gestion de vos biens et bénéficiez d'une tranquillité d'esprit totale.</p>
+				<p style="color:white;">Nous sommes votre partenaire de confiance pour la gestion <br> de votre copropriété. Notre objectif est de vous offrir une expérience sans souci et de garantir le bien-être et la tranquillité d'esprit de tous les copropriétaires.
+				</p>
+				<div style="background: #1685b6;  padding: 8px 20px 8px 20px; 
+					color:white; border-radius: 5px 5px 0 0;">
+					<a href="tarif-logiciel-gestion">Voir nos tarifs</a>
+				</div>
 			
 		</div>
 	</div>
