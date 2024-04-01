@@ -40,10 +40,9 @@
                                 </li>
                                 <li class="dropdown"><a href="#" data-toggle="dropdown">Tarifs <i class="icon-arrow"></i></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="./qui-sommes-nous">Gestion locatives</a></li>
-                                        <li><a href="./contact">Mission Syndic</a></li>
+                                        <li><a href="../tarifs-gestion-locative/">Gestion locatives</a></li>
+                                        <li><a href="../tarifs-mission-syndic">Mission Syndic</a></li>
                                         <li><a href="../tarif-visite-virtuelle">Visite virtuelle</a></li>
-                                        <li><a href="../tarif-visite-3d">Visite 3D</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="#" data-toggle="dropdown">Services Additionnels <i class="icon-arrow"></i></a>
@@ -59,9 +58,9 @@
                         <div class="contact-info">
                             <h2>Contact Info</h2>
                             <ul class="list-style-one">
-                                <li><i class="bi bi-geo-alt-fill"></i>6391 Elgin St. Celina, Delaware</li>
-                                <li><i class="bi bi-telephone-fill"></i>(+001) 123-456-789</li>
-                                <li><i class="bi bi-envelope"></i> info@example.com</li>
+                                <li><i class="bi bi-geo-alt-fill"></i>Cotonou, Bénin</li>
+                                <li><i class="bi bi-telephone-fill"></i>(+229) 523-456-79</li>
+                                <li><i class="bi bi-envelope"></i> info@adbimmobilier.com</li>
                                 <li><i class="bi bi-alarm-fill"></i> Week Days: 08.00 to 10.00
                                 </li>
                             </ul>
@@ -70,7 +69,6 @@
                             <li class="facebook"><a href="#" class="fab fa-facebook-f"></a></li>
                             <li class="twitter"><a href="#" class="fab fa-instagram"></a></li>
                             <li class="linkedin"><a href="#" class="fab fa-twitter"></a></li>
-                            <li class="instagram"><a href="#" class="fab fa-pinterest-p"></a></li>
                             <li class="youtube"><a href="#" class="fab fa-linkedin-in"></a></li>
                         </ul>
                     </div>

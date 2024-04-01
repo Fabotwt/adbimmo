@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>ADB IMMO - Mission syndic de copropriété</title>
+	<title>ADB IMMO - Tarifs mission syndic</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->
@@ -56,8 +56,8 @@
 						<div class="breatcome-discription">
 							<p>ADB IMMO</p>
 						</div>
-						<div class="breatcome-title" style="text-transform:uppercase;">
-							<h1>Mission Syndic de Copropriété</h1>
+						<div class="breatcome-title">
+							<h1>TARIFS MISSION SYNDIC</h1>
 						</div>
 					</div>
 				</div>
@@ -68,51 +68,96 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
-					<div class="service-details-title">
-						<h4>Gestion Transparente et Professionnelle de Votre Copropriété</h4>
+					<div class="service-details-title text-center">
+						<h4> Des Forfaits Flexibles Adaptés à Vos Besoins</h4>
 					</div>
-					<div class="service-detials-discription">
-						<p>En tant que syndic de copropriété, notre mission chez ADB IMMO est de vous offrir une gestion transparente, efficace et professionnelle de votre immeuble. Nous nous engageons à assurer le bon fonctionnement de la copropriété, 
-							à préserver la valeur de votre patrimoine et à répondre aux besoins et préoccupations des copropriétaires.</p>
+					<div class="service-detials-discription text-center">
+						<p>
+ 							Chez ADB IMMO, nous proposons des forfaits de gestion locative flexibles
+							 conçus pour répondre aux besoins spécifiques de chaque propriétaire. 
+							 Que vous possédiez un seul bien locatif ou un portefeuille immobilier 
+							 diversifié, nous avons une solution adaptée pour vous aider à maximiser 
+							 vos revenus locatifs tout en minimisant les tracas administratifs.
+						</p>
 					</div>
+				</div>
+			</div>
+			<h2 class="text-center mb-4">Plans de Gestion Immobilière</h2>
+			<div class="row">
+				<div class="col-md-4 border-right">
+				<div class="card text-center">
+					<div class="card-header bg-primary text-white">
+					Tarif de Base 
+					</div>
+					<div class="card-body">
+					<p class="card-text">Gestion administrative de base</p>
+					<p class="card-text">La gestion des comptes</p>
+					<p class="card-text">Communication avec les copropriétaires.</p>
+					<p class="card-text">Assistance téléphonique pour les propriétaires</p>
+					</div>
+					<div class="card-footer">
+					<strong>20 000 FCFA</strong>/mois
+					</div>
+				</div>
+				</div>
+				<div class="col-md-4 border-right border-left">
+				<div class="card text-center">
+					<div class="card-header bg-success text-white">
+					Tarif Standard 
+					</div>
+					<div class="card-body">
+					<p class="card-text"> Tous les services du tarif de base</p>
+					<p class="card-text">Supervision des travaux et des réparations</p>
+					<p class="card-text">Supervision des travaux et des réparations</p>
+					<p class="card-text">Préparation des rapports financiers trimestriels</p>
+					</div>
+					<div class="card-footer">
+					<strong>120 000 FCFA</strong>/mois
+					</div>
+				</div>
+				</div>
+				<div class="col-md-4 border-left">
+				<div class="card text-center">
+					<div class="card-header bg-warning text-white">
+					Tarif Premium
+					</div>
+					<div class="card-body">
+					<p class="card-text">Tous les services du tarif standard</p>
+					<p class="card-text">Inspections régulières des biens</p>
+					<p class="card-text">La gestion des relations avec les copropriétaires</p>
+					<p class="card-text">Suivre les activités financières</p>
+					</div>
+					<div class="card-footer">
+					<strong>220 000 FCFA</strong>/mois
+					</div>
+				</div>
+				</div>
+			</div>
+			<div class="row mt-5" >
+				<div class="col-lg-12 col-md-12">
+					
 					<div class="row">
 						<div class="col-lg-12 col-md-12">
 							<div class="service-list-title">
-								<h4>Nos Services</h4>
+								<h4>Tarification Personnalisée</h4>
 							</div>
 							<div class="service-detials-list">
-								<p>Nous proposons une gamme complète de services de syndic de copropriété pour répondre aux besoins spécifiques de votre immeuble :</p>
-								<span>Gestion Administrative:</span>
-								<p>Nous nous chargeons de toutes les tâches administratives liées à la copropriété, 
-									y compris la convocation et la tenue des assemblées générales, la gestion des comptes, et la communication avec les copropriétaires.</p>
-								<span>Gestion Technique :</span>
-								<p>Nous supervisons l'entretien courant de l'immeuble, la gestion des travaux 
-									et des réparations, ainsi que la mise en conformité réglementaire.</p>
-								<span>Gestion Financière:</span>
-								<p>Nous gérons les finances de la copropriété, y compris la collecte des charges, le paiement des dépenses courantes, et la préparation des budgets prévisionnels.</p>
-								<span>Conseils Juridiques: </span>
-								<p>Nous vous conseillons sur les aspects juridiques de la gestion de la copropriété, y compris la rédaction et l'interprétation du règlement de copropriété et des décisions d'assemblée générale.</p>
+								<p>En plus de nos forfaits standard, nous proposons également une 
+									tarification personnalisée pour répondre à des besoins 
+									spécifiques ou à des situations particulières. 
+									Contactez-nous pour discuter de vos besoins et obtenir 
+									un devis personnalisé.
+								</p>
+
 							</div>
-						</div>
-						
-					</div>
-					<div class="row mt-5">
-						
-						<div class="col-lg-8 col-md-12" style="align-items: center; justify-content: center;">
+
 							<div class="service-list-title">
-								<h4>Notre Approche</h4>
+								<h4>Engagez-vous en Toute Confiance</h4>
 							</div>
 							<div class="service-detials-list">
-								<p>Notre approche de la gestion syndicale se caractérise par:</p>
-								<span>Transparence:</span>
-								<p> Nous vous tenons informés de 
-									manière transparente sur toutes les décisions et actions prises concernant la copropriété.</p>
-								<span>Professionnalisme:</span>
-								<p>Nous agissons avec professionnalisme et intégrité dans toutes nos interactions avec les copropriétaires, les prestataires et les autorités.</p>
-								<span>Réactivité:</span>
-								<p>Nous sommes à votre écoute et réagissons rapidement à toutes les demandes et préoccupations des copropriétaires.</p>
-								<span>Satisfaction des Locataires:</span>
-								<p> Offrez à vos locataires une expérience transparente et fluide avec un accès facile aux informations et aux services.</p>
+								<p>
+									Avec nos forfaits de gestion locative, vous pouvez vous engager en toute confiance, sachant que vos biens sont entre de bonnes mains. Notre équipe d'experts est là pour prendre soin de vos biens et garantir un retour sur investissement optimal.
+								</p>
 							</div>
 						</div>
 					</div>
@@ -120,24 +165,16 @@
 			</div>
 		</div>
 	</div>
-
-	<div class="catagori-area">
-		<div class="container text-center" >
-			
-				<h3 style="color:white;">Votre Partenaire de Confiance
-				</h3>
-				<p style="color:white;">Nous sommes votre partenaire de confiance pour la gestion <br> de votre copropriété. Notre objectif est de vous offrir une expérience sans souci et de garantir le bien-être et la tranquillité d'esprit de tous les copropriétaires.
-				</p>
-				<div style="background:#1685b6;padding:8px 12px;color:white;border-radius:5px;display:inline-block;">
-					<a href="tarif-logiciel-gestion">Voir nos tarifs</a>
-				</div>
-
-
-			
-		</div>
-	</div>
-
-	
+	<style>
+		.card {
+		border-radius: 0;
+		}
+		.card-body p {
+		border-bottom: 1px solid #ddd;
+		padding-bottom: 5px;
+		margin-bottom: 5px;
+		}
+	</style>
 
 	<!-- CONTACT ADBIMMO-->
 	<?php include('../web_parties/contact-form.php') ?>

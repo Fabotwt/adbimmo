@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>ADB IMMO - Mission syndic de copropriété</title>
+	<title>ADB IMMO - Tarifs visite virtuelle</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->
@@ -56,8 +56,8 @@
 						<div class="breatcome-discription">
 							<p>ADB IMMO</p>
 						</div>
-						<div class="breatcome-title" style="text-transform:uppercase;">
-							<h1>Mission Syndic de Copropriété</h1>
+						<div class="breatcome-title">
+							<h1>TARIFS VISITES VIRTUELLES</h1>
 						</div>
 					</div>
 				</div>
@@ -68,51 +68,96 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
-					<div class="service-details-title">
-						<h4>Gestion Transparente et Professionnelle de Votre Copropriété</h4>
+					<div class="service-details-title text-center">
+						<h4>Des Forfaits Flexibles Adaptés à Vos Besoins</h4>
 					</div>
-					<div class="service-detials-discription">
-						<p>En tant que syndic de copropriété, notre mission chez ADB IMMO est de vous offrir une gestion transparente, efficace et professionnelle de votre immeuble. Nous nous engageons à assurer le bon fonctionnement de la copropriété, 
-							à préserver la valeur de votre patrimoine et à répondre aux besoins et préoccupations des copropriétaires.</p>
+					<div class="service-detials-discription text-center">
+						<p>
+							Chez ADB IMMO, nous proposons des visites virtuelles de qualité pour mettre en valeur vos propriétés de manière immersive et attrayante. Nos tarifs compétitifs vous permettent de bénéficier des avantages des visites virtuelles sans dépasser votre budget marketing.
+						</p>
 					</div>
+				</div>
+			</div>
+			<h2 class="text-center mb-4">Plans de Visite Virtuelle</h2>
+			<div class="row">
+				<div class="col-md-4 border-right">
+					<div class="card text-center">
+						<div class="card-header bg-primary text-white">
+							Forfait de Base
+						</div>
+						<div class="card-body">
+							<p class="card-text">création d'une visite virtuelle 
+								de base pour une propriété</p>
+							<p class="card-text">Nombre limité de panoramas  
+							</p>
+							<p>Moins de fonctionnalités </p>
+							<p class="card-text">Idéal pour les petites propriétés ou les budgets limités.</p>
+						</div>
+						<div class="card-footer">
+							<strong>Tarif personnalisé</strong>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 border-right border-left">
+					<div class="card text-center">
+						<div class="card-header bg-success text-white">
+							Forfait Standard
+						</div>
+						<div class="card-body">
+							<p class="card-text">Visite virtuelle plus étendue
+							</p>
+							<p>un nombre plus important de panoramas 
+							</p> 
+							<p>
+								les étiquettes interactives et 
+								les plans de l'étage
+							</p>
+							<p>
+								La personnalisation de l'interface utilisateur
+							</p>
+							<p>Idéal pour les propriétés de taille moyenne </p>
+						</div>
+						<div class="card-footer">
+							<strong>Tarif personnalisé</strong>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4 border-left">
+					<div class="card text-center">
+						<div class="card-header bg-warning text-white">
+							Forfait Premium
+						</div>
+						<div class="card-body">
+							<p class="card-text">Visite virtuelle haut de gamme 
+							<p>La technologie VR, la modélisation 3D, la vidéo intégrée 
+							</p>
+							<p>La personnalisation avancée de l'interface utilisateur</p>
+							<p>Idéal pour les propriétés haut de gamme </p>
+						</div>
+						<div class="card-footer">
+							<strong>Tarif personnalisé</strong>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row mt-5">
+				<div class="col-lg-12 col-md-12">
+
 					<div class="row">
 						<div class="col-lg-12 col-md-12">
 							<div class="service-list-title">
-								<h4>Nos Services</h4>
+								<h4>Tarification Personnalisée</h4>
 							</div>
 							<div class="service-detials-list">
-								<p>Nous proposons une gamme complète de services de syndic de copropriété pour répondre aux besoins spécifiques de votre immeuble :</p>
-								<span>Gestion Administrative:</span>
-								<p>Nous nous chargeons de toutes les tâches administratives liées à la copropriété, 
-									y compris la convocation et la tenue des assemblées générales, la gestion des comptes, et la communication avec les copropriétaires.</p>
-								<span>Gestion Technique :</span>
-								<p>Nous supervisons l'entretien courant de l'immeuble, la gestion des travaux 
-									et des réparations, ainsi que la mise en conformité réglementaire.</p>
-								<span>Gestion Financière:</span>
-								<p>Nous gérons les finances de la copropriété, y compris la collecte des charges, le paiement des dépenses courantes, et la préparation des budgets prévisionnels.</p>
-								<span>Conseils Juridiques: </span>
-								<p>Nous vous conseillons sur les aspects juridiques de la gestion de la copropriété, y compris la rédaction et l'interprétation du règlement de copropriété et des décisions d'assemblée générale.</p>
+								<p>En plus de nos forfaits standard, nous proposons également une tarification personnalisée pour répondre à des besoins spécifiques ou à des demandes particulières. Contactez-nous pour discuter de vos besoins et obtenir un devis personnalisé.</p>
+
 							</div>
-						</div>
-						
-					</div>
-					<div class="row mt-5">
-						
-						<div class="col-lg-8 col-md-12" style="align-items: center; justify-content: center;">
+
 							<div class="service-list-title">
-								<h4>Notre Approche</h4>
+								<h4>Engagez-vous en Toute Confiance</h4>
 							</div>
 							<div class="service-detials-list">
-								<p>Notre approche de la gestion syndicale se caractérise par:</p>
-								<span>Transparence:</span>
-								<p> Nous vous tenons informés de 
-									manière transparente sur toutes les décisions et actions prises concernant la copropriété.</p>
-								<span>Professionnalisme:</span>
-								<p>Nous agissons avec professionnalisme et intégrité dans toutes nos interactions avec les copropriétaires, les prestataires et les autorités.</p>
-								<span>Réactivité:</span>
-								<p>Nous sommes à votre écoute et réagissons rapidement à toutes les demandes et préoccupations des copropriétaires.</p>
-								<span>Satisfaction des Locataires:</span>
-								<p> Offrez à vos locataires une expérience transparente et fluide avec un accès facile aux informations et aux services.</p>
+								<p>Avec nos tarifs de visite virtuelle transparents et abordables, vous pouvez vous engager en toute confiance, sachant que vos propriétés sont mises en valeur de manière professionnelle et attrayante. Nos visites virtuelles vous aident à attirer plus de clients et à conclure des transactions plus rapidement.</p>
 							</div>
 						</div>
 					</div>
@@ -121,23 +166,17 @@
 		</div>
 	</div>
 
-	<div class="catagori-area">
-		<div class="container text-center" >
-			
-				<h3 style="color:white;">Votre Partenaire de Confiance
-				</h3>
-				<p style="color:white;">Nous sommes votre partenaire de confiance pour la gestion <br> de votre copropriété. Notre objectif est de vous offrir une expérience sans souci et de garantir le bien-être et la tranquillité d'esprit de tous les copropriétaires.
-				</p>
-				<div style="background:#1685b6;padding:8px 12px;color:white;border-radius:5px;display:inline-block;">
-					<a href="tarif-logiciel-gestion">Voir nos tarifs</a>
-				</div>
 
-
-			
-		</div>
-	</div>
-
-	
+	<style>
+		.card {
+		border-radius: 0;
+		}
+		.card-body p {
+		border-bottom: 1px solid #ddd;
+		padding-bottom: 5px;
+		margin-bottom: 5px;
+		}
+	</style>
 
 	<!-- CONTACT ADBIMMO-->
 	<?php include('../web_parties/contact-form.php') ?>

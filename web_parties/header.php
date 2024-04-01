@@ -41,10 +41,9 @@
                         <li><a href="#">Tarifs <i class="bi bi-chevron-down"></i></a>
                             <div class="sub-menu">
                                 <ul>
-                                    <li><a href="./qui-sommes-nous">Gestion locatives</a></li>
-                                    <li><a href="./contact">Mission Syndic</a></li>
+                                    <li><a href="../tarifs-gestion-locative/">Gestion locatives</a></li>
+                                    <li><a href="../tarifs-mission-syndic">Mission Syndic</a></li>
                                     <li><a href="../tarif-visite-virtuelle">Visite virtuelle</a></li>
-                                    <li><a href="../tarif-visite-3d">Visite 3D</a></li>
                                 </ul>
                             </div>
                         </li>
@@ -52,9 +51,9 @@
                         <li><a href="#">Services Additionnels <i class="bi bi-chevron-down"></i></a>
                             <div class="sub-menu">
                                 <ul>
-                                    <li><a href="./qui-sommes-nous">Plomberie</a></li>
-                                    <li><a href="./contact">Soudure</a></li>
-                                    <li><a href="../faq">Électricité</a></li>
+                                    <li><a href="../plomberie">Plomberie</a></li>
+                                    <li><a href="../soudure">Soudure</a></li>
+                                    <li><a href="../electricité">Électricité</a></li>
                                 </ul>
                             </div>
                         </li>
