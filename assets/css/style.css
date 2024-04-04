@@ -3982,7 +3982,7 @@ button.icons {
     overflow: hidden;
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
-    background-color: #010212;
+    background-color: #ffffff;
     visibility: hidden;
     opacity: 0;
     -webkit-transition: all 0.7s ease-out;

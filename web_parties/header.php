@@ -48,17 +48,17 @@
                             </div>
                         </li>
 
-                        <li><a href="#">Services Additionnels <i class="bi bi-chevron-down"></i></a>
+                        <li><a href="#">Services de maintenance <i class="bi bi-chevron-down"></i></a>
                             <div class="sub-menu">
                                 <ul>
-                                    <li><a href="../plomberie">Plomberie</a></li>
-                                    <li><a href="../soudure">Soudure</a></li>
-                                    <li><a href="../electricité">Électricité</a></li>
+                                    <li><a href="../service-de-plomberie">Maintenance en Plomberie</a></li>
+                                    <li><a href="../service-de-soudure">Maintenance en Soudure</a></li>
+                                    <li><a href="../maintenance-electrique">Maintenance électrique</a></li>
                                 </ul>
                             </div>
                         </li>
 
-                        <li><a href="#">Biens Immobiliers</a></li>
+                        <li><a href="../biens-immobiliers">Biens Immobiliers</a></li>
                     </ul>
                     
                 </div>

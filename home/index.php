@@ -63,14 +63,14 @@
 									<h1>ADB IMMO</h1>
 								</div>
 								<div class="slider-discripton">
-									<p>Découvrez une approche personnalisée de l'immobilier. Chez ADB IMMO, nous mettons tout en œuvre pour réaliser vos rêves immobiliers. De l'achat à la vente en passant par la gestion locative et les conseils avisés, notre équipe dévouée est là pour vous accompagner à chaque étape de votre parcours. 
-                                    Parcourez notre sélection de biens immobiliers de qualité et laissez-nous 
-									vous aider à trouver votre prochaine propriété.</p>
+									<p>
+									ADB Immo est une plateforme de services en ligne <strong>et d'administration de biens</strong> qui connecte les utilisateurs avec une variété de prestations professionnels et personnels, visant à offrir une solution tout-en-un pour répondre aux besoins quotidiens des individus, des entreprises <strong>et des lotissements</strong> grâce à notre vaste réseau de prestataires de services qualifiés <strong>et de professionnels</strong>.
+									</p>
                             
 								</div>
 								<div class="slider-button">
 									<div class="adbimmo-btn slider">
-										<a href="#">Nos produits</a>
+										<a href="#">Nos services</a>
 									</div>
 								</div>
 							</div>
