@@ -319,12 +319,12 @@
 						<div class="blog-content">
 							
 							<div class="blog-title">
-								<h4><a href="../service-de-maintenace">Plomberie Professionnelle</a></h4>
+								<h4><a href="../service-de-plomberie">Plomberie Professionnelle</a></h4>
 								<p>Fuites, robinets qui gouttent, tuyaux bouchés - nous avons les compétences et 
 									l'expertise nécessaires pour régler tous vos soucis de plomberie </p>	
 							</div>
 							<div class="blog-btn">
-								<a href="../service-de-maintenace">En savoir+ <i class="bi bi-arrow-up-right"></i></a>
+								<a href="../service-de-plomberie">En savoir+ <i class="bi bi-arrow-up-right"></i></a>
 							</div>
 						</div>
 					</div>
@@ -337,7 +337,7 @@
 						<div class="blog-content">
 							
 							<div class="blog-title">
-								<h4><a href="../service-de-maintenace">Services d'Électricité Fiables</a></h4>
+								<h4><a href="../maintenance-electrique">Services d'Électricité Fiables</a></h4>
 								<p>Que vous ayez besoin d'une simple réparation, d'une mise à niveau de 
 									votre système électrique, nous sommes là pour vous fournir un service 
 									fiable et de qualité.
@@ -345,7 +345,7 @@
 							</div>
 							
 							<div class="blog-btn">
-								<a href="../service-de-maintenace">En savoir+ <i class="bi bi-arrow-up-right"></i></a>
+								<a href="../maintenance-electrique">En savoir+ <i class="bi bi-arrow-up-right"></i></a>
 							</div>
 						</div>
 					</div>
@@ -358,13 +358,13 @@
 						<div class="blog-content">
 							
 							<div class="blog-title">
-								<h4><a href="../service-de-maintenace">Expertise en Soudure</a></h4>
+								<h4><a href="../service-de-soudure">Expertise en Soudure</a></h4>
 								<p>nous avons les compétences et l'équipement nécessaires pour réaliser des 
 									travaux de soudure de haute qualité, 
 									garantissant la solidité et la durabilité de vos structures métalliques.</p>	
 							</div>
 							<div class="blog-btn">
-								<a href="../service-de-maintenace">En savoir+ <i class="bi bi-arrow-up-right"></i></a>
+								<a href="../service-de-soudure">En savoir+ <i class="bi bi-arrow-up-right"></i></a>
 							</div>
 						</div>
 					</div>
