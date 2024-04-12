@@ -62,9 +62,10 @@
 								<div class="slider-main-title">
 									<h1>ADB IMMO</h1>
 								</div>
-								<div class="slider-discripton">
-									<p>
-									ADB Immo est une plateforme de services en ligne <strong>et d'administration de biens</strong> qui connecte les utilisateurs avec une variété de prestations professionnels et personnels, visant à offrir une solution tout-en-un pour répondre aux besoins quotidiens des individus, des entreprises <strong>et des lotissements</strong> grâce à notre vaste réseau de prestataires de services qualifiés <strong>et de professionnels</strong>.
+								<div class="slider-discripton " style="font-size:178%;">
+									<p >
+									ADB Immo est une plateforme de services en ligne et d'administration de biens qui connecte les utilisateurs 
+									avec une variété de prestations professionnels et personnels, visant à offrir une solution tout-en-un pour répondre aux besoins quotidiens des individus, des entreprises et des lotissements grâce à notre vaste réseau de prestataires de services qualifiés et de professionnels.
 									</p>
                             
 								</div>
@@ -75,70 +76,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-lg-6 col-md-12">
-							<div class="banner-search-box">
-								<div class="banner-search-box-title">
-									<h6>Demande rapide états des lieux </h6>
-								</div>
-								<div class="search-contents ">
-									<form method="GET">
-										<div class="form-group">
-											<div class="form-group">
-												<input type="text" name="name" placeholder="Nom">
-											</div>
-										</div>
-										<div class="form-group">
-											<div class="form-group">
-												<input type="text" name="telephone" placeholder="Téléphone">
-											</div>
-										</div>
-
-										<div class="form-group">
-											<div class="form-group">
-												<input type="text" name="email" placeholder="Email">
-											</div>
-										</div>
-
-										<div class="form-group">
-											<select class="selectpicker search-fields" name="jeSuis">
-												<option value="">Je suis </option>
-												<option value="un proprétaire">un proprétaire</option>
-												<option value="une agence Immobilière">une agence Immobilier</option>
-												<option value="un locataire">un locataire</option>
-											</select>
-										</div>
-										
-										<div class="form-group">
-											<select class="selectpicker search-fields" name="typeDeBien">
-												<option value="">Sélectionner le type de bien</option>
-												<option value="Appartement">Appartement</option>
-												<option value="Maison">Maison</option>
-												<option value="Studio">Studio</option>
-												<option value="Villa">Villa</option>
-											</select>
-										</div>
-
-										<div class="form-group">
-											<div class="form-group">
-												<input type="text" name="nombrePieces" placeholder="Nombre de pièces">
-											</div>
-										</div>
-
-										<div class="form-group">
-											<select class="selectpicker search-fields" name="All Categories">
-												<option value="">Sélectionner le niveau d'urgence</option>
-												<option value="Haute">Haute</option>
-												<option value="Moyenne">Moyenne</option>
-												<option value="Basse">Basse</option>
-											</select>
-										</div>
-										<div class="form-group mb-0">
-											<button class="search-button">Envoyer la demande</button>
-										</div>
-									</form>
-								</div>
-							</div>
-						</div>
+						
 					</div>
 				</div>
 			</div>
@@ -152,7 +90,7 @@
 				<div class="col-lg-12">
 					<div class="section-title text-center">
 						<div class="section-main-title">
-							<h2>Votre partenaire <br> immobilier de confiance</h2>
+							<h2>Votre facilitateur <br> de gestion</h2>
 						</div>
 						<div class="section-sub-titile">
 							<h4>Découvrez notre large gamme de services immobiliers conçus pour répondre à tous vos besoins</h4>
@@ -167,8 +105,8 @@
 							<img src="../assets/images/resource/feature-icon1.png" alt="">
 						</div>
 						<div class="feauture-content">
-							<h4><a href="#">Gestion Locative</a></h4>
-							<p>Confiez-nous la gestion de votre bien immobilier en toute tranquillité. Nous nous occupons de la recherche de locataires, de la perception des loyers, de la gestion des charges et démarches administratives.</p>
+							<h4><a href="#">Visite virtuelle</a></h4>
+							<p>Solution pour les propriétaires de maison et les agences immobilières afin de présenter leurs biens de manière immersive.</p>
 						</div>
 						<div class="feature-btn">
 							<a href="#">En savoir+ <i class="bi bi-arrow-right"></i></a>
@@ -181,8 +119,8 @@
 							<img src="../assets/images/resource/feature-icon2.png" alt="">
 						</div>
 						<div class="feauture-content">
-							<h4><a href="#">Achat/Vente</a></h4>
-							<p>Confiez-nous la vente ou l'achat de votre bien immobilier. Nous vous accompagnons tout au long du processus, de la recherche du bien idéal jusqu'à la signature de l'acte authentique chez le notaire.</p>
+							<h4><a href="#">Logiciel de Gestion</a></h4>
+							<p>Un logiciel de gestion immobilière complet pour vous aider à gérer efficacement vos biens.</p>
 						</div>
 						<div class="feature-btn">
 							<a href="#">En savoir+ <i class="bi bi-arrow-right"></i></a>
@@ -196,7 +134,7 @@
 						</div>
 						<div class="feauture-content">
 							<h4><a href="#">Mission Syndic</a></h4>
-							<p>Confiez-nous la gestion de votre copropriété. Nous nous occupons de l'administration, de la gestion financière, de la tenue des assemblées générales et de toutes les tâches liées à la copropriété.</p>
+							<p>Confiez-nous la gestion de votre copropriété. Nous nous occupons de l'administration, et de la gestion financière...</p>
 						</div>
 						<div class="feature-btn">
 							<a href="#">En savoir+ <i class="bi bi-arrow-right"></i></a>
@@ -206,11 +144,6 @@
 			</div>
 		</div>
 	</div>
-
-
-	<!-- APPARTEMENT ADBIMMO -->
-	
-	<?php include('../web_parties/collection-propriete.php') ?>
 
 	<!-- ETATS DES LIEUX ADBIMMO -->
 
@@ -259,19 +192,19 @@
 						<div class="row">
 							<div class="col-lg-6 col-md-6">
 								<div class="about-shape">
-									<img src="../assets/images/about/about-shape1.png" alt="">
+									<img src="../assets/images/resource/2148814388.jpg" alt="">
 								</div>
 							</div>
 							<div class="col-lg-6 col-md-6">
 								<div class="about-shape">
-									<img src="../assets/images/about/about-shape2.png" alt="">
+									<img src="../assets/images/resource/2151050254.jpg" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-lg-12">
 								<div class="about-thumb">
-									<img src="../assets/images/about/about-thumb.png" alt="">
+									<img src="../assets/images/resource/16300174.webp" alt="">
 								</div>
 							</div>
 						</div>
@@ -284,11 +217,6 @@
 	<!-- POURQUOI NOUS CHOISIR ADBIMMO -->
 	<?php include('../web_parties/pourquoi-choisir.php') ?>
 	
-	
-	<!-- CONTACT ADBIMMO -->
-	<?php include('../web_parties/contact-form.php') ?>
-	
-
 	<!-- SERVICE DE MAINTENANCE ADBIMMO -->
 	<div class="blog-area">
 		<div class="container">
@@ -372,6 +300,9 @@
 			</div>
 		</div>
 	</div>
+
+	<!-- CONTACT ADBIMMO -->
+	<?php include('../web_parties/contact-form.php') ?>
 	
 
 	<!-- SIDEBAR ADBIMMO-->

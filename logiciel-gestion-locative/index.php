@@ -69,7 +69,7 @@
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
 					<div class="service-details-title">
-						<h4>Simplifiez la Gestion de Vos Biens Immobiliers</h4>
+						<h4>Simplifiez la Gestion de Vos Biens Immobiliers avec notre Logiciel Dédié</h4>
 					</div>
 					<div class="service-detials-discription">
 						<p>La gestion efficace de vos biens immobiliers nécessite des outils puissants
@@ -130,8 +130,8 @@
 				<p style="color:white;">Nous proposons des forfaits de facturation mensuelle flexibles et adaptés à vos besoins spécifiques. Contactez-nous dès aujourd'hui pour découvrir 
 					comment notre logiciel de gestion immobilière peut simplifier la gestion de vos biens et vous aider à atteindre vos objectifs.
 				</p>
-				<div class="adbimmo-btn" style="display: inline-block;">
-					<a href="tarif-logiciel-gestion">Voir nos tarifs</a>
+				<div style="background:#1685b6;padding:8px 12px;color:white;border-radius:5px;display:inline-block;">
+					<a href="tarifs-logiciel-gestion">Voir nos tarifs</a>
 				</div>
 			
 		</div>

@@ -129,7 +129,7 @@
 				<p style="color:white;">Nous sommes votre partenaire de confiance pour la gestion <br> de votre copropriété. Notre objectif est de vous offrir une expérience sans souci et de garantir le bien-être et la tranquillité d'esprit de tous les copropriétaires.
 				</p>
 				<div style="background:#1685b6;padding:8px 12px;color:white;border-radius:5px;display:inline-block;">
-					<a href="tarif-logiciel-gestion">Voir nos tarifs</a>
+					<a href="tarifs-mission-syndic">Voir nos tarifs</a>
 				</div>
 
 

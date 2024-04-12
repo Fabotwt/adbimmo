@@ -210,8 +210,7 @@
 										<span><i class="bi bi-geo-alt"></i> Fidjrosse, Cotonou</span>
 									</div>
 									<div class="service-icon">
-										<span><i class="bi bi-heart"></i></span>
-										<span><i class="bi bi-arrow-right"></i></span>
+										<a href="../details-du-bien"><span><i class="bi bi-arrow-right"></i></span></a>
 									</div>
 								</div>
 							</div>

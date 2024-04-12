@@ -57,7 +57,7 @@
 							<p>ADB IMMO</p>
 						</div>
 						<div class="breatcome-title">
-							<h1>CONSTRUCTION</h1>
+							<h1>Maîtrise d'Ouvrage Déléguée</h1>
 						</div>
 					</div>
 				</div>
@@ -74,40 +74,48 @@
             </div>
             <div class="col-lg-8 col-md-12">
                 <div class="service-details-title">
-                    <h4>Services de Construction</h4>
+                    <h4>Confiez-nous la Gestion Complète de Vos Projets Immobiliers</h4>
                 </div>
                 <div class="service-detials-discription">
-                    <p>Nous sommes fiers de fournir des services de construction de haute qualité, alliant innovation, expertise et un engagement inébranlable envers la satisfaction du client. Que vous envisagiez de construire une nouvelle propriété résidentielle, commerciale ou industrielle, notre équipe expérimentée est là pour transformer vos idées en réalité.</p>
-                </div>
+                    <p>La maîtrise d'ouvrage déléguée est un service essentiel pour garantir la réussite de vos projets immobiliers. Chez ADB IMMO, nous offrons une expertise spécialisée dans la gestion complète de vos projets, de la conception à la livraison finale, en veillant à respecter vos objectifs, votre budget et votre calendrier.</p>
+				</div>
                 <div class="row">
-					<div class="col-lg-8 col-md-12">
+					<div class=" col-md-12">
 						<div class="service-list-title">
-							<h4>Notre Approche :</h4>
+							<h4>Nos Services</h4>
 						</div>
 						<div class="service-detials-list">
-							<span>Conception et Planification :</span>
-							<p>Nous commençons par une phase de conception détaillée où nous collaborons avec vous pour créer des plans sur mesure qui répondent à vos exigences spécifiques.</p>
-							<span>Gestion de Projet :</span>
-							<p>Notre équipe de gestion de projet expérimentée veille à ce que votre projet soit livré dans les délais et dans les limites du budget, tout en maintenant des normes de qualité élevées.</p>
-							<span>Construction de Qualité :</span>
-							<p>Nous utilisons des matériaux de qualité supérieure et travaillons avec des entrepreneurs qualifiés pour garantir des résultats exceptionnels à chaque étape du processus de construction.</p>
+							<p>En tant que maître d'ouvrage délégué, nous assumons la responsabilité de la gestion globale de votre projet, y compris :</p>
+							<span>Étude de Faisabilité :</span>
+							<p>Analyse approfondie de votre projet pour évaluer sa viabilité technique, économique et réglementaire.</p>
+
+							<span>Conception :</span>
+							<p>Coordination des équipes d'architectes, d'ingénieurs et de consultants pour élaborer des plans détaillés répondant à vos besoins et à vos exigences.</p>
+
+							<span>Gestion des Appels d'Offres :</span>
+							<p>Élaboration des documents d'appel d'offres, sélection des entrepreneurs et négociation des contrats.</p>
+
+							<span>Suivi de Chantier :</span>
+							<p>Supervision quotidienne des travaux pour s'assurer qu'ils sont exécutés conformément aux spécifications et aux délais convenus.</p>
+
+							
 						</div>
 					</div>
 				</div>
-                <div class="service-detials-list">
-                    <h4>Nos Services :</h4>
-					<p>Que vous recherchiez une construction résidentielle, commerciale ou industrielle, nous offrons une gamme complète de services de construction pour répondre à vos besoins :</p>
-					
-					<span>Construction Résidentielle</span>
-					<p>De la construction de maisons individuelles aux projets de développement résidentiel, nous réalisons des résidences de qualité qui répondent aux besoins de nos clients.</p>
-					<span>Construction Commerciale</span>
-					<p> Nous construisons des espaces commerciaux fonctionnels et esthétiques, adaptés aux besoins spécifiques de votre entreprise.</p>
-					<span>Construction Industrielle</span>
-					<p> Nous avons une expertise dans la construction d'installations industrielles, telles que des entrepôts, des usines et des infrastructures spécialisées.</p>
-                </div>
-                
+				
             </div>
         </div>
+		<div class="service-detials-list">
+			<span>Contrôle Qualité :</span>
+			<p>Inspection régulière pour garantir la qualité des travaux et identifier toute déviation par rapport aux normes et aux exigences du projet.</p>
+
+			<span>Gestion Administrative et Financière :</span>
+			<p>Suivi des dépenses, gestion des paiements aux entrepreneurs et reporting financier régulier.</p>
+
+			<span>Livraison et Réception des Travaux :</span>
+			<p>Coordination de la réception des travaux et vérification de leur conformité avant la remise des clés.</p>
+
+		</div>
     </div>
 </div>
 

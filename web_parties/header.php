@@ -9,7 +9,7 @@
             <div class="col-lg-9">
                 <div class="header-menu">
                     <ul>
-                        <li><a href="#">Accueil</a>
+                        <li><a href="../home">Accueil</a>
                         </li>
 
                         <li><a href="#">ADB IMMO <i class="bi bi-chevron-down"></i></a>
@@ -25,15 +25,12 @@
                         <li><a href="#">Offres <i class="bi bi-chevron-down"></i></a>
                             <div class="sub-menu">
                                 <ul>
-                                    <li><a href="../achat-vente-bien">Achat/Vente de biens</a></li>
-                                    <li><a href="../conseils-immobiliers">Conseils Immobiliers</a></li>
-                                    <li><a href="../construction">Construction</a></li>
                                     <li><a href="../etat-des-lieux">État des lieux</a></li>
-                                    <li><a href="../gestion-locative">Gestion Locative</a></li>
-                                    <li><a href="../location">Location</a></li>
+                                    <li><a href="../maitrise-ouvrage-deleguee">Maîtrise d'ouvrage délégué</a></li>
                                     <li><a href="../logiciel-gestion-locative">Logiciel de Gestion</a></li>
-                                    <li><a href="../mission-syndic-de-copropriete">Mission Syndic de Copropriété</a></li>
+                                    <li><a href="../mission-syndic-de-copropriete">Syndic de Copropriété</a></li>
                                     <li><a href="../visite-virtuelle">Visites Virtuelles</a></li>
+                                    <li><a href="../maintenance">Services de maintenance</a></li>
                                 </ul>
                             </div>
                         </li>
@@ -41,23 +38,12 @@
                         <li><a href="#">Tarifs <i class="bi bi-chevron-down"></i></a>
                             <div class="sub-menu">
                                 <ul>
-                                    <li><a href="../tarifs-gestion-locative/">Gestion locatives</a></li>
+                                    <li><a href="../tarifs-logiciel-gestion">Logiciel de gestion</a></li>
                                     <li><a href="../tarifs-mission-syndic">Mission Syndic</a></li>
-                                    <li><a href="../tarif-visite-virtuelle">Visite virtuelle</a></li>
+                                    <li><a href="../tarifs-visite-virtuelle">Visite virtuelle</a></li>
                                 </ul>
                             </div>
                         </li>
-
-                        <li><a href="#">Services de maintenance <i class="bi bi-chevron-down"></i></a>
-                            <div class="sub-menu">
-                                <ul>
-                                    <li><a href="../service-de-plomberie">Maintenance en Plomberie</a></li>
-                                    <li><a href="../service-de-soudure">Maintenance en Soudure</a></li>
-                                    <li><a href="../maintenance-electrique">Maintenance électrique</a></li>
-                                </ul>
-                            </div>
-                        </li>
-
                         <li><a href="../biens-immobiliers">Biens Immobiliers</a></li>
                     </ul>
                     

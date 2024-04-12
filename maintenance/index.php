@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>ADB IMMO - Etat des lieux</title>
+	<title>ADB IMMO - Services de Maintenance Immobilière Complète</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->
@@ -57,7 +57,7 @@
 							<p>ADB IMMO</p>
 						</div>
 						<div class="breatcome-title">
-							<h1>ETATS DES LIEUX</h1>
+							<h1>Services de Maintenance</h1>
 						</div>
 					</div>
 				</div>
@@ -69,64 +69,148 @@
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
 					<div class="service-details-title">
-						<h4>Des Évaluations Complètes pour Protéger Vos Intérêts</h4>
+						<h4>Services de Maintenance Immobilière Complète</h4>
 					</div>
 					<div class="service-detials-discription">
 						
-						<p>Les états des lieux sont des étapes essentielles dans tout processus 
-							de location ou de vente de biens immobiliers. Chez 
-							ADB IMMO, nous offrons des services d'états des lieux 
-							professionnels et protéger les intérêts de toutes les 
-							parties impliquées.</p>
+						<p>
+						Chez ADB IMMO, nous offrons une gamme complète de services de maintenance immobilière pour répondre à tous vos besoins. Nos équipes expérimentées sont là pour assurer le bon fonctionnement de vos installations, de la plomberie à l'électricité, en passant par la soudure et la maçonnerie.
+						</p>
 					</div>
-					<div class="row">
-						<div class="col-lg-8 col-md-12">
-							<div class="service-list-title">
-								<h4>Notre Approche :</h4>
-							</div>
-							<div class="service-detials-list">
-								<p>Nous comprenons l'importance d'un état des lieux précis et exhaustif pour éviter les litiges et les malentendus. 
-									Notre équipe d'experts en états des lieux utilise des méthodes rigoureuses et 
-									des outils spécialisés garantissent la transparence du service.</p>
-								<span>Inspection Approfondie  :</span>
-								<p> Nous réalisons une inspection minutieuse de chaque aspect du bien, en examinant attentivement les murs, les sols, les plafonds, les installations sanitaires, les équipements électroménagers, et bien plus encore.</p>
-								<span>Rapports Détaillés :</span>
-								<p>Nous produisons des rapports d'état des lieux détaillés et clairs, accompagnés de photographies, pour fournir une documentation précise de l'état du bien au moment de la transaction.</p>
-								<span>Aspects juridiques :</span>
-								<p> Notre équipe est là pour vous fournir des conseils professionnels sur les aspects juridiques et techniques des états des lieux, et pour répondre à toutes vos questions tout au long du processus.</p>
-							</div>
-						</div>
-						<div class="col-lg-4 col-md-12">
-						<div class="service-details-thumb">
-							<img src="../assets/images/resource/19949444_6137702.svg" alt="">
-						</div>
-						</div>
-					</div>
-					<div class="row mt-5">
+					<div class="container">
+    <div class="row">
+        <div class="col-lg-4 col-md-8">
+            <div class="service-details-thumb">
+                <img src="../assets/images/resource/29519.jpg" alt="">
+            </div>
+        </div>
+        <div class="col-lg-8 col-md-12">
+            <div class="service-details-title">
+                <h4>Plomberie</h4>
+            </div>
+            <div class="service-detials-discription">
+                <p>Dépannage Rapide : Intervention rapide en cas de fuite, de robinet défectueux ou de tout autre problème de plomberie.</p>
+                <p>Réparation et Remplacement : Réparation ou remplacement de tuyaux, robinets, chauffe-eau et autres équipements de plomberie.</p>
+                <p>Installation de Nouvelles Installations : Installation de nouvelles salles de bains, cuisines et autres installations de plomberie.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-4 col-md-8">
+            <div class="service-details-thumb">
+                <img src="../assets/images/resource/2151229979.jpg" alt="">
+            </div>
+        </div>
+        <div class="col-lg-8 col-md-12">
+            <div class="service-details-title">
+                <h4>Électricité</h4>
+            </div>
+            <div class="service-detials-discription">
+                <p>Dépannage Électrique : Intervention rapide en cas de panne électrique, de disjoncteur déclenché ou de problème de câblage.</p>
+                <p>Installation et Réparation : Installation de nouvelles prises, interrupteurs et luminaires, ainsi que réparation des installations électriques existantes.</p>
+                <p>Mise aux Normes : Mise aux normes électriques pour assurer la sécurité et la conformité de vos installations.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-4 col-md-8">
+            <div class="service-details-thumb">
+                <img src="../assets/images/resource/3861.jpg" alt="">
+            </div>
+        </div>
+        <div class="col-lg-8 col-md-12">
+            <div class="service-details-title">
+                <h4>Soudure</h4>
+            </div>
+            <div class="service-detials-discription">
+                <p>Réparation et Renforcement : Réparation et renforcement des structures métalliques, des garde-corps, des portails et des clôtures.</p>
+                <p>Fabrication sur Mesure : Fabrication sur mesure de pièces métalliques selon vos besoins spécifiques.</p>
+                <p>Soudure de Précision : Soudure de précision pour assurer la solidité et la durabilité de vos installations métalliques.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-4 col-md-8">
+            <div class="service-details-thumb">
+                <img src="../assets/images/resource/15106.jpg" alt="">
+            </div>
+        </div>
+        <div class="col-lg-8 col-md-12">
+            <div class="service-details-title">
+                <h4>Maçonnerie</h4>
+            </div>
+            <div class="service-detials-discription">
+                <p>Réparation de Murs et de Fondations : Réparation des fissures, des dommages structuraux et des problèmes d'étanchéité.</p>
+                <p>Construction et Rénovation : Construction de murs, de cheminées et de tout autre élément maçonné, ainsi que rénovation des surfaces existantes.</p>
+                <p>Travaux de Restauration : Restauration de bâtiments historiques, de façades et de structures en pierre ou en brique.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="service-area style-two">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="section-title text-center">
 						
-						<div class="col-lg-12 col-md-12">
-							<div class="service-list-title">
-								<h4>Nos Services:</h4>
-							</div>
-							<div class="service-detials-list">
-								<p>Que vous soyez un particulier ou un professionnel,
-									 nous offrons une gamme complète de services d'états des lieux pour 
-									 répondre à vos besoins spécifiques :</p>
-								<span>États des Lieux d'Entrée :</span>
-								<p> Nous documentons l'état du bien immobilier au début d'une nouvelle location ou d'une nouvelle vente.</p>
-								<span>États des Lieux de Sortie : </span>
-								<p>Nous comparons l'état actuel du bien avec son état initial à la fin d'une location ou d'une vente.</p>
-								<span>Visite de chantier </span>
-								<p>Notre service de visite de chantier fournit une surveillance professionnelle tout au long du processus de construction ou de rénovation. Nous veillons à ce que les travaux soient conformes aux normes requises et nous identifions tout problème potentiel, garantissant ainsi la qualité et la conformité du projet.</p>
-								<span>Prélivraison </span>
-								<p> Avant la livraison finale d'un projet immobilier, nous effectuons une inspection approfondie pour garantir que toutes les spécifications ont été respectées. Notre équipe identifie les éventuels défauts ou lacunes, offrant ainsi aux clients la tranquillité d'esprit quant à la qualité de leur investissement.</p>
-								<span>Livraison d'opération immobilière </span>
-								<p>Notre service de livraison d'opération immobilière assure une transition fluide entre la phase de construction et l'occupation ou la vente finale du bien. Nous nous assurons que toutes les exigences légales et contractuelles sont remplies, offrant ainsi une expérience sans tracas pour nos clients.</p>
-							</div>
+						<div class="section-sub-titile">
+							<h4>Service de maintenance</h4>
 						</div>
 						
+						<div class="section-main-title">
+							<h2>Pourquoi Nous Choisir?</h2>
+						</div>
 					</div>
-					
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-4 col-md-6">
+					<div class="service-items-box">
+						<div class="service-items-icon">
+							<img src="../assets/images/service/competence.png" width="50px" alt="">
+						</div>
+						<div class="service-items-content">
+							<h4><a href="#">Équipes Qualifiées </a></h4>
+							<p>Nos équipes sont composées de professionnels qualifiés et expérimentés dans chaque domaine pour comprendre et repondre à vos demandes.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="service-items-box">
+						<div class="service-items-icon">
+							<img src="../assets/images/service/reactivite.png" width="50px" alt="">
+						</div>
+						<div class="service-items-content">
+							<h4><a href="#">Service Réactif</a></h4>
+							<p>Nous comprenons l'urgence des problèmes et nous nous engageons à intervenir rapidement pour résoudre vos problèmes.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="service-items-box">
+						<div class="service-items-icon">
+							<img src="../assets/images/service/transparence.png" width="50px" alt="">
+						</div>
+						<div class="service-items-content">
+							<h4><a href="#">Transparence des Prix</a></h4>
+							<p>Nous vous fournirons un devis détaillé avant de commencer tout travail, et nos prix sont transparents et compétitifs.</p>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -139,12 +223,9 @@
 				<div class="container">
 					<div class="row" style="align-items:center;">
 						<div class="col-lg-6 col-md-12" style="color:white;">
-							<h3 style="color:white;">Demande d'états des lieux 
+							<h3 style="color:white;">Contactez-nous dès Aujourd'hui
 							</h3>
-							<p style="color:white;">Nous nous engageons à fournir des services d'états 
-							des lieux de la plus haute qualité, avec intégrité, 
-							professionnalisme et un souci constant de la satisfaction du client. 
-							</p>
+							<p style="color:white;">Confiez la maintenance de vos biens immobiliers à des professionnels de confiance. Contactez ADB IMMO dès aujourd'hui pour en savoir plus sur nos services de maintenance et planifier une intervention.</p>
 							
 						</div>
 						<div class="col-lg-6 col-md-12">
@@ -170,17 +251,16 @@
 									<div class="form-group">
 										<select class="selectpicker search-fields" name="jeSuis">
 											<option value="">Type de service </option>
-											<option value="États des Lieux d'Entrée">États des Lieux d'Entrée</option>
-											<option value="États des Lieux de Sortie">États des Lieux de Sortie</option>
-											<option value="Visite de chantier">Visite de chantier</option>
-											<option value="Prélivraison">Prélivraison</option>
-											<option value="Livraison d'opération immobilière">Livraison d'opération immobilière</option>
+											<option value="Plomberie">Plomberie</option>
+											<option value="Électricité">Électricité</option>
+											<option value="Soudure">Soudure</option>
+											<option value="Maçonnerie">Maçonnerie</option>
 										</select>
 									</div>
 									
 									<div class="form-group">
 										<div class="form-group">
-											<textarea style="padding:15px;width: 100%;" name="massage" id="massage" cols="63" rows="5" placeholder="Brève description du bien"></textarea>
+											<textarea style="padding:15px;width: 100%;" name="massage" id="massage" cols="63" rows="5" placeholder="Brève description du problème"></textarea>
 										</div>
 									</div>
 

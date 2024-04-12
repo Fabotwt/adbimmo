@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>ADB IMMO - Tarifs mission syndic</title>
+	<title>ADB IMMO - Découvrez Nos Biens Immobiliers</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->
@@ -44,7 +44,42 @@
 </head>
 
 <body>
+	<style>
+		.project-details-thumb {
+    position: relative;
+}
 
+.slide {
+    display: none;
+}
+
+.slide img {
+    width: 100%;
+    height: auto;
+}
+
+.prev,
+.next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: white;
+    font-size: 24px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+
+.prev {
+    left: 0;
+}
+
+.next {
+    right: 0;
+}
+
+
+	</style>
 	<!-- HEADER ADB IMMO -->
 	<?php include('../web_parties/header.php') ?>
 	<!-- HEADER ADB IMMO -->
@@ -57,109 +92,96 @@
 							<p>ADB IMMO</p>
 						</div>
 						<div class="breatcome-title">
-							<h1>TARIFS MISSION SYNDIC</h1>
+							<h1>NOS BIEN EN PORTEFEUILLE</h1>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-	<div class="service-details-area">
+	
+	<div class="project-detials-area">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-12 col-md-12">
-					<div class="service-details-title text-center">
-						<h4> Des Forfaits Flexibles Adaptés à Vos Besoins</h4>
+				<div class="col-lg-12">
+					<div class="project-details-thumb">
+						<!-- Carrousel d'images -->
+						<div class="slider-container">
+							<div class="slide"><img src="../assets/images/project/house-exterior.jpg" alt="Extérieur de la maison"></div>
+							<div class="slide"><img src="../assets/images/project/living-room.jpg" alt="Salon"></div>
+							<div class="slide"><img src="../assets/images/project/kitchen.jpg" alt="Cuisine"></div>
+							<div class="slide"><img src="../assets/images/project/bedroom.jpg" alt="Chambre à coucher"></div>
+						</div>
+						<div class="prev">&#10094;</div>
+						<div class="next">&#10095;</div>
 					</div>
-					<div class="service-detials-discription text-center">
-						<p>
- 							Chez ADB IMMO, nous proposons des forfaits de gestion locative flexibles
-							 conçus pour répondre aux besoins spécifiques de chaque propriétaire. 
-							 Que vous possédiez un seul bien locatif ou un portefeuille immobilier 
-							 diversifié, nous avons une solution adaptée pour vous aider à maximiser 
-							 vos revenus locatifs tout en minimisant les tracas administratifs.
-						</p>
+					<div class="project-details-title">
+						<h4>Maison familiale spacieuse</h4>
+					</div>
+					<div class="porject-detials-discription">
+						<p>Une maison de famille spacieuse et moderne, située dans un quartier calme et convivial. Cette propriété offre un espace de vie confortable et de nombreuses commodités.</p>
+						<p>Construite en 2010, cette maison comprend 4 chambres à coucher, 2 salles de bains, une cuisine entièrement équipée, un grand salon avec cheminée et un jardin arrière spacieux.</p>
+					</div>
+				</div>
+				<div class="col-lg-6 col-md-12">
+					<!-- Informations sur le quartier -->
+					<div class="project-details-thumb">
+						<h5>Quartier</h5>
+						<p>La maison est située dans un quartier résidentiel paisible, à proximité des écoles, des parcs et des commerces locaux. Les transports en commun sont facilement accessibles, offrant une bonne connexion au centre-ville.</p>
+					</div>
+				</div>
+				<div class="col-lg-6 col-md-12">
+					<!-- Caractéristiques de la maison -->
+					<div class="tab_container">
+						<h5>Caractéristiques</h5>
+						<div id="tab1" class="tab_content">
+							<ul class="accordion">
+								<li>
+									<a class="active"><span>Surface habitable</span> <i class="bi bi-chevron-double-right"></i></a>
+									<p>200 m²</p>
+								</li>
+								<li>
+									<a><span>Nombre de chambres</span> <i class="bi bi-chevron-double-right"></i></a>
+									<p>4</p>
+								</li>
+								<li>
+									<a><span>Nombre de salles de bains</span> <i class="bi bi-chevron-double-right"></i></a>
+									<p>2</p>
+								</li>
+								<li>
+									<a><span>Jardin</span> <i class="bi bi-chevron-double-right"></i></a>
+									<p>Grand jardin arrière</p>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-12">
+					<!-- Informations supplémentaires -->
+					<div class="porject-detials-discription inner">
+						<h5>Informations supplémentaires</h5>
+						<p>Cette maison bénéficie également d'un garage attenant, d'un système de chauffage central et de fenêtres double vitrage pour une meilleure isolation. Idéal pour une famille à la recherche d'un espace confortable et fonctionnel.</p>
+						<p>Pour plus d'informations ou pour organiser une visite, veuillez nous contacter.</p>
+					</div>
+				</div>
+				<div class="col-lg-12">
+					<!-- Visite 3D -->
+					<div class="porject-detials-discription">
+						<h5>Visite 3D</h5>
+						<!-- Intégration de la visite 3D via Sketchfab -->
+						<iframe width="100%" height="800" src="https://dto3d-viewer-forprod-public.web.app/f1cfe008-1758-4b65-bd87-45af547127dc" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+						<p>Explorez la maison en 3D pour une expérience immersive.</p>
 					</div>
 				</div>
 			</div>
-			<h2 class="text-center mb-4">Plans de Gestion Immobilière</h2>
-			<div class="row">
-				<div class="col-md-4 mt-5 border-right">
-					<div class="card text-center">
-						<div class="card-header bg-primary text-white">
-							Formule Basique
-						</div>
-						<div class="card-body">
-							<p class="card-text">Nombre de Copropriétés : Jusqu'à 5</p>
-							<p class="card-text">Gestion Administrative de la Copropriété</p>
-							<p class="card-text">Tenue des Assemblées Générales</p>
-							<p class="card-text">Suivi des Travaux et Entretien</p>
-							<p class="card-text">Gestion des Litiges Mineurs</p>
-							<p class="card-text">Support Client de Base</p>
-							<p class="card-text">Frais Additionnels : Tarifs Horaires pour les Services Juridiques et d'Expertise</p>
-						</div>
-						<div class="card-footer">
-							<strong>Prix : 25 000 CFA / mois</strong>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 mt-5 border-right border-left">
-					<div class="card text-center">
-						<div class="card-header bg-success text-white">
-							Formule Standard
-						</div>
-						<div class="card-body">
-							<p class="card-text"></p>
-							<p class="card-text">Nombre de Copropriétés : 5 à 20</p>
-							<p class="card-text">Toutes les fonctionnalités de la Formule Basique</p>
-							<p class="card-text">Gestion Comptable de la Copropriété</p>
-							<p class="card-text">Rédaction des Procès-Verbaux d'Assemblée</p>
-							<p class="card-text">Suivi des Paiements et des Charges</p>
-							<p class="card-text">Support Client Avancé (Email et Téléphone)</p>
-							<p class="card-text">Frais Additionnels : Tarifs Réduits pour les Services Juridiques et d'Expertise</p>
-						
-						</div>
-						<div class="card-footer">
-							<strong>Prix : 50 000 CFA / mois</strong>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4 mt-5 border-left">
-					<div class="card text-center">
-						<div class="card-header bg-warning text-white">
-							Formule Premium
-						</div>
-						<div class="card-body">
-							<p class="card-text">Nombre de Copropriétés : Illimité</p>
-							<p class="card-text">Toutes les fonctionnalités de la Formule Standard</p>
-							<p class="card-text">Gestion Complète des Contentieux et Litiges Majeurs</p>
-							<p class="card-text">Rapports Financiers et Comptables Avancés</p>
-							<p class="card-text">Assistance Juridique Prioritaire</p>
-							<p class="card-text">Frais Additionnels : Services Juridiques et d'Expertise Inclus dans le Forfait</p>
-							<p class="card-text"><br></p>
-						</div>
-						<div class="card-footer">
-							<strong>Prix : 100 000 CFA / mois</strong>
-						</div>
-					</div>
-				</div>
-			</div>
-
 		</div>
 	</div>
-	<style>
-		.card {
-		border-radius: 0;
-		}
-		.card-body p {
-		border-bottom: 1px solid #ddd;
-		padding-bottom: 5px;
-		margin-bottom: 5px;
-		}
-	</style>
 
-	<!-- CONTACT ADBIMMO-->
-	<?php include('../web_parties/contact-form.php') ?>
+
+	
+	
+	
+
 
 	<!-- SIDEBAR ADBIMMO-->
 	<?php include('../web_parties/sidebar.php') ?>
@@ -267,6 +289,35 @@
 				h3[2].innerHTML = "<span>$</span>359";
 			}
 		}
+	</script>
+
+	<script>
+		document.addEventListener("DOMContentLoaded", function() {
+			let slideIndex = 0;
+			showSlides();
+
+			function showSlides() {
+				let slides = document.getElementsByClassName("slide");
+				for (let i = 0; i < slides.length; i++) {
+					slides[i].style.display = "none";
+				}
+				slideIndex++;
+				if (slideIndex > slides.length) {slideIndex = 1}
+				slides[slideIndex-1].style.display = "block";
+				setTimeout(showSlides, 10000); // Change image every 2 seconds
+			}
+
+			// Previous and next slide controls
+			document.querySelector('.prev').addEventListener('click', function() {
+				slideIndex -= 2;
+				showSlides();
+			});
+
+			document.querySelector('.next').addEventListener('click', function() {
+				showSlides();
+			});
+		});
+
 	</script>
 
 </body>

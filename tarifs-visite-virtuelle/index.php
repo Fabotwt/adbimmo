@@ -73,96 +73,84 @@
 					</div>
 					<div class="service-detials-discription text-center">
 						<p>
-							Chez ADB IMMO, nous proposons des visites virtuelles de qualité pour mettre en valeur vos propriétés de manière immersive et attrayante. Nos tarifs compétitifs vous permettent de bénéficier des avantages des visites virtuelles sans dépasser votre budget marketing.
+						Offrez à vos clients une expérience immersive unique grâce à nos services de visite virtuelle. Que ce soit pour la vente ou la location de biens immobiliers, la visite virtuelle permet à vos clients de découvrir chaque détail d'une propriété depuis le confort de leur foyer. 
 						</p>
 					</div>
 				</div>
 			</div>
 			<h2 class="text-center mb-4">Plans de Visite Virtuelle</h2>
 			<div class="row">
-				<div class="col-md-4 border-right">
+				<div class="col-md-3 border-right">
 					<div class="card text-center">
 						<div class="card-header bg-primary text-white">
-							Forfait de Base
+							Plan Découverte
 						</div>
 						<div class="card-body">
-							<p class="card-text">création d'une visite virtuelle 
-								de base pour une propriété</p>
-							<p class="card-text">Nombre limité de panoramas  
-							</p>
-							<p>Moins de fonctionnalités </p>
-							<p class="card-text">Idéal pour les petites propriétés ou les budgets limités.</p>
+							<p class="card-text">Visite Virtuelle de base</p>
+							<p class="card-text">15 photos incluses</p>
+							<p class="card-text">Support par e-mail</p>
+							<p class="card-text">Visite interactive à 360 degrés</p>
+							
 						</div>
 						<div class="card-footer">
-							<strong>Tarif personnalisé</strong>
+							<strong>Prix : 50 000 CFA / visite</strong>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-4 border-right border-left">
+				<div class="col-md-3 border-right border-left">
 					<div class="card text-center">
 						<div class="card-header bg-success text-white">
-							Forfait Standard
+							Plan Standard
 						</div>
 						<div class="card-body">
-							<p class="card-text">Visite virtuelle plus étendue
-							</p>
-							<p>un nombre plus important de panoramas 
-							</p> 
-							<p>
-								les étiquettes interactives et 
-								les plans de l'étage
-							</p>
-							<p>
-								La personnalisation de l'interface utilisateur
-							</p>
-							<p>Idéal pour les propriétés de taille moyenne </p>
+							<p class="card-text">Visite Virtuelle avancée</p>
+							<p class="card-text">25 photos incluses</p>
+							<p class="card-text">Visite interactive à 360 degrés</p>
+							<p class="card-text">Support e-mail et téléphone</p>
 						</div>
 						<div class="card-footer">
-							<strong>Tarif personnalisé</strong>
+							<strong>Prix : 100 000 CFA / visite</strong>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-4 border-left">
+				<div class="col-md-3 border-left">
 					<div class="card text-center">
 						<div class="card-header bg-warning text-white">
-							Forfait Premium
+							Plan Premium
 						</div>
 						<div class="card-body">
-							<p class="card-text">Visite virtuelle haut de gamme 
-							<p>La technologie VR, la modélisation 3D, la vidéo intégrée 
-							</p>
-							<p>La personnalisation avancée de l'interface utilisateur</p>
-							<p>Idéal pour les propriétés haut de gamme </p>
+							<p class="card-text">Visite Virtuelle haut de gamme</p>
+							<p class="card-text">35 photos incluses</p>
+							<p class="card-text">E-mail, téléphone</p>
+							<p class="card-text">chat en direct</p>
+							
 						</div>
 						<div class="card-footer">
-							<strong>Tarif personnalisé</strong>
+							<strong>Prix : 150 000 CFA / visite</strong>
 						</div>
 					</div>
 				</div>
-			</div>
-			<div class="row mt-5">
-				<div class="col-lg-12 col-md-12">
-
-					<div class="row">
-						<div class="col-lg-12 col-md-12">
-							<div class="service-list-title">
-								<h4>Tarification Personnalisée</h4>
-							</div>
-							<div class="service-detials-list">
-								<p>En plus de nos forfaits standard, nous proposons également une tarification personnalisée pour répondre à des besoins spécifiques ou à des demandes particulières. Contactez-nous pour discuter de vos besoins et obtenir un devis personnalisé.</p>
-
-							</div>
-
-							<div class="service-list-title">
-								<h4>Engagez-vous en Toute Confiance</h4>
-							</div>
-							<div class="service-detials-list">
-								<p>Avec nos tarifs de visite virtuelle transparents et abordables, vous pouvez vous engager en toute confiance, sachant que vos propriétés sont mises en valeur de manière professionnelle et attrayante. Nos visites virtuelles vous aident à attirer plus de clients et à conclure des transactions plus rapidement.</p>
-							</div>
+				<div class="col-md-3">
+					<div class="card text-center">
+						<div class="card-header bg-danger text-white">
+							Plan Entreprise
+						</div>
+						<div class="card-body">
+							<p class="card-text"></p>
+							<p class="card-text">Solution personnalisée pour agences immobilières</p>
+							<p class="card-text">Tarification flexible</p>
+							<p class="card-text">Support dédié</p>
+						</div>
+						<div class="card-footer">
+							<strong>Prix : Sur Devis</strong>
 						</div>
 					</div>
-				</div>
+    			</div>
 			</div>
+
+
+
+			
 		</div>
 	</div>
 

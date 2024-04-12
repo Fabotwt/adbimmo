@@ -27,15 +27,12 @@
                                 </li>
                                 <li class="dropdown"><a href="#project" data-toggle="dropdown">Offres <i class="icon-arrow"></i></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="../achat-vente-bien">Achat/Vente de biens</a></li>
-                                        <li><a href="../conseils-immobiliers">Conseils Immobiliers</a></li>
-                                        <li><a href="../construction">Construction</a></li>
-                                        <li><a href="../etat-des-lieux">État des lieux</a></li>
-                                        <li><a href="../gestion-locative">Gestion Locative</a></li>
-                                        <li><a href="../location">Location</a></li>
-                                        <li><a href="../location">Logiciel de Gestion</a></li>
-                                        <li><a href="../mission-syndic-de-copropriete">Mission Syndic de Copropriété</a></li>
-                                        <li><a href="../visite-virtuelle">Visites Virtuelles</a></li>
+                                    <li><a href="../etat-des-lieux">État des lieux</a></li>
+                                    <li><a href="../construction">Maîtrise d'ouvrage délégué</a></li>
+                                    <li><a href="../logiciel-gestion-locative">Logiciel de Gestion</a></li>
+                                    <li><a href="../mission-syndic-de-copropriete">Syndic de Copropriété</a></li>
+                                    <li><a href="../visite-virtuelle">Visites Virtuelles</a></li>
+                                    <li><a href="../maintenance">Services de maintenance</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="#" data-toggle="dropdown">Tarifs <i class="icon-arrow"></i></a>
@@ -43,13 +40,6 @@
                                         <li><a href="../tarifs-gestion-locative/">Gestion locatives</a></li>
                                         <li><a href="../tarifs-mission-syndic">Mission Syndic</a></li>
                                         <li><a href="../tarif-visite-virtuelle">Visite virtuelle</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="#" data-toggle="dropdown">Services Additionnels <i class="icon-arrow"></i></a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="../service-de-plomberie">Maintenance en Plomberie</a></li>
-                                        <li><a href="../service-de-soudure">Maintenance en Soudure</a></li>
-                                        <li><a href="../maintenance-electrique">Maintenance électrique</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown"><a href="../biens-immobiliers" data-toggle="dropdown">Biens Immobiliers</a></li>

@@ -106,7 +106,7 @@
 							<div class="col-lg-6 col-md-6 col-sm-6">
 								<div class="about-list">
 									<ul>
-										<li>Gestion Locative</li>
+										<li>Logiciel de Gestion</li>
 										<li>Service d'états des lieux</li>
 										<li>Maintenance des Biens</li>
 									</ul>
@@ -116,8 +116,8 @@
 								<div class="about-list">
 									<ul>
 										<li>Missions syndic</li>
-										<li>Achat/Vente</li>
-										<li>Construction</li>
+										<li>Visite virtuelle</li>
+										<li>Maîtrise d'ouvrage délégué</li>
 									</ul>
 								</div>
 							</div>
@@ -129,9 +129,7 @@
 	</div>
 	<!-- POURQUOI NOUS CHOISIR ADBIMMO -->
 	<?php include('../web_parties/pourquoi-choisir.php') ?>
-	<!-- COLLECTION PROPRIETE-->
-	<?php include('../web_parties/collection-propriete.php') ?>
-
+	
 	<!-- SIDEBAR ADBIMMO-->
 	<?php include('../web_parties/sidebar.php') ?>
 

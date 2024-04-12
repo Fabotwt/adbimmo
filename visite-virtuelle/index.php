@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>ADB IMMO - Gestion locative</title>
+	<title>ADB IMMO - Visite virtuelle</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->
@@ -57,7 +57,7 @@
 							<p>ADB IMMO</p>
 						</div>
 						<div class="breatcome-title">
-							<h1>TARIFS GESTION DES LOCATIVES</h1>
+							<h1>VISITE VIRTUELLE</h1>
 						</div>
 					</div>
 				</div>
@@ -65,116 +65,80 @@
 		</div>
 	</div>
 	<div class="service-details-area">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-12 col-md-12">
-					<div class="service-details-title text-center">
-						<h4> Des Forfaits Flexibles Adaptés à Vos Besoins</h4>
-					</div>
-					<div class="service-detials-discription text-center">
-						<p>
- 							Chez ADB IMMO, nous proposons des forfaits de gestion locative flexibles
-							 conçus pour répondre aux besoins spécifiques de chaque propriétaire. 
-							 Que vous possédiez un seul bien locatif ou un portefeuille immobilier 
-							 diversifié, nous avons une solution adaptée pour vous aider à maximiser 
-							 vos revenus locatifs tout en minimisant les tracas administratifs.
-						</p>
-					</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="service-details-title">
+					<h4>Services de Visites Virtuelles pour Propriétaires de Biens et Agences Immobilières</h4>
 				</div>
-			</div>
-			<h2 class="text-center mb-4">Plans de Gestion Immobilière</h2>
-			<div class="row">
-				<div class="col-md-4 border-right">
-				<div class="card text-center">
-					<div class="card-header bg-primary text-white">
-					Forfait de Base
-					</div>
-					<div class="card-body">
-					<p class="card-text">Collecte des loyers</p>
-					<p class="card-text">Suivi des paiements</p>
-					<p class="card-text">Gestion des litiges avec les locataires</p>
-					<p class="card-text">Assistance téléphonique pour les propriétaires</p>
-					</div>
-					<div class="card-footer">
-					<strong>20 000 FCFA</strong>/mois
-					</div>
+				<div class="service-detials-discription">
+					<p>Valorisez vos Biens Immobiliers avec des Visites Virtuelles de Qualité</p>
+					<p>Chez ADB IMMO, nous offrons des services professionnels de visites virtuelles pour les propriétaires de biens immobiliers et les agences immobilières. Nos visites virtuelles haut de gamme vous permettent de présenter vos biens de manière immersive et captivante, offrant à vos clients une expérience unique qui les incitera à s'engager davantage.</p>
 				</div>
-				</div>
-				<div class="col-md-4 border-right border-left">
-				<div class="card text-center">
-					<div class="card-header bg-success text-white">
-					Forfait Standard
-					</div>
-					<div class="card-body">
-					<p class="card-text">Gestion administrative complète</p>
-					<p class="card-text">Supervision des travaux et des réparations</p>
-					<p class="card-text">Supervision des travaux et des réparations</p>
-					<p class="card-text">Préparation des rapports financiers trimestriels</p>
-					</div>
-					<div class="card-footer">
-					<strong>120 000 FCFA</strong>/mois
-					</div>
-				</div>
-				</div>
-				<div class="col-md-4 border-left">
-				<div class="card text-center">
-					<div class="card-header bg-warning text-white">
-					Forfait Premium
-					</div>
-					<div class="card-body">
-					<p class="card-text">Inspection régulière des biens</p>
-					<p class="card-text">Gestion des relations</p>
-					<p class="card-text">Suivre les activités de gestion</p>
-					<p class="card-text">Suivre les activités financières</p>
-					</div>
-					<div class="card-footer">
-					<strong>220 000 FCFA</strong>/mois
-					</div>
-				</div>
-				</div>
-			</div>
-			<div class="row mt-5" >
-				<div class="col-lg-12 col-md-12">
-					
-					<div class="row">
-						<div class="col-lg-12 col-md-12">
-							<div class="service-list-title">
-								<h4>Tarification Personnalisée</h4>
-							</div>
-							<div class="service-detials-list">
-								<p>En plus de nos forfaits standard, nous proposons également une 
-									tarification personnalisée pour répondre à des besoins 
-									spécifiques ou à des situations particulières. 
-									Contactez-nous pour discuter de vos besoins et obtenir 
-									un devis personnalisé.
-								</p>
-
-							</div>
-
-							<div class="service-list-title">
-								<h4>Engagez-vous en Toute Confiance</h4>
-							</div>
-							<div class="service-detials-list">
-								<p>
-									Avec nos forfaits de gestion locative, vous pouvez vous engager en toute confiance, sachant que vos biens sont entre de bonnes mains. Notre équipe d'experts est là pour prendre soin de vos biens et garantir un retour sur investissement optimal.
-								</p>
-							</div>
+				<div class="row">
+					<div class="col-md-12">
+						<div class="service-list-title">
+							<h4>Pour les Propriétaires de Biens</h4>
+						</div>
+						<div class="service-detials-list">
+							<span>Mise en Valeur de votre Propriété : Présentez votre bien sous son meilleur jour en offrant aux acheteurs potentiels une visite virtuelle immersive qui met en valeur chaque détail.</span>
+							<span>Élargissement de votre Audience : Atteignez des clients du monde entier en offrant une visite virtuelle accessible à tout moment et depuis n'importe où.</span>
+							<span>Différenciation sur le Marché : Démarquez-vous de la concurrence en offrant une expérience unique qui positionne votre propriété en tête des recherches des acheteurs.</span>
 						</div>
 					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						<div class="service-list-title">
+							<h4>Pour les Agences Immobilières</h4>
+						</div>
+						<div class="service-detials-list">
+							<span>Augmentation des Ventes : Attirez plus de clients et concluez des ventes plus rapidement en proposant des visites virtuelles de qualité supérieure qui suscitent l'intérêt des acheteurs.</span>
+							<span>Réduction des Visites Inutiles : Éliminez les visites non qualifiées en permettant aux acheteurs de découvrir les biens de manière virtuelle avant de planifier une visite physique.</span>
+							<span>Marketing Innovant : Utilisez les visites virtuelles comme un outil de marketing puissant pour promouvoir vos biens et vous démarquer sur le marché.</span>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						<div class="service-list-title">
+							<h4>Nos Services de Visites Virtuelles</h4>
+						</div>
+						<div class="service-detials-list">
+							<span>Visites Virtuelles 3D Immersives : Offrez une expérience immersive à vos clients grâce à des visites virtuelles réalistes et interactives.</span>
+							<span>Personnalisation Avancée : Personnalisez vos visites virtuelles avec des informations supplémentaires, des vidéos, des plans d'étage et plus encore.</span>
+							<span>Compatibilité Multiplateforme : Nos visites virtuelles sont accessibles depuis n'importe quel appareil, offrant une expérience fluide sur ordinateurs, smartphones et tablettes.</span>
+						</div>
+					</div>
+				</div>
+				<div class="service-detials-list">
+					<span>Pourquoi Choisir ADB IMMO pour Vos Visites Virtuelles ?</span>
+					<span>Qualité Supérieure : Nous offrons des visites virtuelles de la plus haute qualité pour mettre en valeur vos biens immobiliers.</span>
+					<span>Service Clientèle Exceptionnel : Notre équipe dévouée est là pour vous offrir un service clientèle personnalisé et répondre à vos besoins.</span>
+					<span>Innovation Continue : Nous restons à la pointe de la technologie pour vous offrir les meilleures solutions en matière de visites virtuelles immobilières.</span>
 				</div>
 			</div>
 		</div>
 	</div>
-	<style>
-		.card {
-		border-radius: 0;
-		}
-		.card-body p {
-		border-bottom: 1px solid #ddd;
-		padding-bottom: 5px;
-		margin-bottom: 5px;
-		}
-	</style>
+
+	</div>
+
+	<div class="catagori-area">
+		<div class="container text-center">
+			
+				<h3 style="color:white;">Votre Partenaire de Confiance
+				</h3>
+				<p style="color:white;">Offrez à vos clients une expérience immersive et mémorable avec nos services de visites virtuelles immobilières.  <br> de votre copropriété. Notre objectif est de vous offrir une expérience sans souci et de garantir le bien-être et la tranquillité d'esprit de tous les copropriétaires.
+				</p>
+				<div style="background:#1685b6;padding:8px 12px;color:white;border-radius:5px;display:inline-block;">
+					<a href="../tarifs-visite-virtuelle">Voir nos tarifs</a>
+				</div>
+
+
+			
+		</div>
+	</div>
+
 
 	<!-- CONTACT ADBIMMO-->
 	<?php include('../web_parties/contact-form.php') ?>

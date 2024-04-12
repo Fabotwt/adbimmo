@@ -146,7 +146,7 @@
 								</div>
 								<div class="col-lg-12 col-md-12">
 									<div class="form-box-button">
-										<button type="Submit"> Obtenir un devis</button>
+										<button type="Submit"> Envoyez votre message</button>
 									</div>
 								</div>
 							</div>
