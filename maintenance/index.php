@@ -121,17 +121,19 @@
     <div class="row">
         <div class="col-lg-4 col-md-8">
             <div class="service-details-thumb">
-                <img src="../assets/images/resource/3861.jpg" alt="">
+                <img src="../assets/images/resource/climat.png" alt="">
             </div>
         </div>
         <div class="col-lg-8 col-md-12">
             <div class="service-details-title">
-                <h4>Soudure</h4>
+                <h4>Gestion des systèmes de ventilation & climatisation</h4>
             </div>
             <div class="service-detials-discription">
-                <p>Réparation et Renforcement : Réparation et renforcement des structures métalliques, des garde-corps, des portails et des clôtures.</p>
-                <p>Fabrication sur Mesure : Fabrication sur mesure de pièces métalliques selon vos besoins spécifiques.</p>
-                <p>Soudure de Précision : Soudure de précision pour assurer la solidité et la durabilité de vos installations métalliques.</p>
+                <p>Dépannage Rapide : Notre équipe intervient rapidement en cas de dysfonctionnement de vos systèmes de ventilation ou de climatisation,
+					 assurant ainsi le confort et la qualité de l'air de votre espace intérieur.</p>
+                <p>Réparation et Remplacement : Que ce soit pour réparer des conduits endommagés, des unités défectueuses ou des composants usés, nous sommes là pour assurer le bon fonctionnement de vos équipements de ventilation 
+					et climatisation. Si nécessaire, nous pouvons également procéder au remplacement des unités défaillantes.</p>
+                <p>Installation de Nouvelles Installations : Besoin d'une nouvelle installation de système de ventilation ou de climatisation ? Notre équipe expérimentée est à votre disposition pour concevoir et installer des solutions sur mesure, adaptées à vos besoins spécifiques et à la configuration de votre espace.</p>
             </div>
         </div>
     </div>

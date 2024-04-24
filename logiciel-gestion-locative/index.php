@@ -72,10 +72,9 @@
 						<h4>Simplifiez la Gestion de Vos Biens Immobiliers avec notre Logiciel Dédié</h4>
 					</div>
 					<div class="service-detials-discription">
-						<p>La gestion efficace de vos biens immobiliers nécessite des outils puissants
-							et intuitifs. Notre logiciel de gestion immobilière offre une solution 
-							complète pour simplifier la gestion de vos propriétés, optimiser vos 
-							processus et améliorer votre efficacité opérationnelle.</p>
+						<p>Nous proposons des forfaits de facturation mensuelle flexibles et adaptés à vos besoins spécifiques. Contactez-nous dès aujourd'hui pour découvrir 
+					comment notre logiciel de gestion immobilière peut simplifier la gestion de vos biens et vous aider 
+					à atteindre vos objectifs.</p>
 					</div>
 					<div class="row">
 						<div class="col-lg-12 col-md-12">
@@ -127,11 +126,13 @@
 			
 				<h3 style="color:white;">Forfaits de Facturation
 				</h3>
-				<p style="color:white;">Nous proposons des forfaits de facturation mensuelle flexibles et adaptés à vos besoins spécifiques. Contactez-nous dès aujourd'hui pour découvrir 
-					comment notre logiciel de gestion immobilière peut simplifier la gestion de vos biens et vous aider à atteindre vos objectifs.
+				<p style="color:white;">La gestion efficace de vos biens immobiliers nécessite des outils puissants
+							et intuitifs. Notre logiciel de gestion immobilière offre une solution 
+							complète pour simplifier la gestion de vos propriétés, optimiser vos 
+							processus et améliorer votre efficacité opérationnelle.
 				</p>
 				<div style="background:#1685b6;padding:8px 12px;color:white;border-radius:5px;display:inline-block;">
-					<a href="tarifs-logiciel-gestion">Voir nos tarifs</a>
+					<a href="../tarifs-logiciel-gestion">Voir nos tarifs</a>
 				</div>
 			
 		</div>

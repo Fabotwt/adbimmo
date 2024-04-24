@@ -81,9 +81,9 @@
 							<h4>Pour les Propriétaires de Biens</h4>
 						</div>
 						<div class="service-detials-list">
-							<span>Mise en Valeur de votre Propriété : Présentez votre bien sous son meilleur jour en offrant aux acheteurs potentiels une visite virtuelle immersive qui met en valeur chaque détail.</span>
+							<span>Mise en Valeur de votre Propriété : Présentez votre bien sous son meilleur jour en offrant aux acheteurs/locataires potentiels une visite virtuelle immersive qui met en valeur chaque détail.</span>
 							<span>Élargissement de votre Audience : Atteignez des clients du monde entier en offrant une visite virtuelle accessible à tout moment et depuis n'importe où.</span>
-							<span>Différenciation sur le Marché : Démarquez-vous de la concurrence en offrant une expérience unique qui positionne votre propriété en tête des recherches des acheteurs.</span>
+							<span>Différenciation sur le Marché : Démarquez-vous de la concurrence en offrant une expérience unique qui positionne votre propriété en tête des recherches des acheteurs/locataires.</span>
 						</div>
 					</div>
 				</div>
@@ -93,8 +93,8 @@
 							<h4>Pour les Agences Immobilières</h4>
 						</div>
 						<div class="service-detials-list">
-							<span>Augmentation des Ventes : Attirez plus de clients et concluez des ventes plus rapidement en proposant des visites virtuelles de qualité supérieure qui suscitent l'intérêt des acheteurs.</span>
-							<span>Réduction des Visites Inutiles : Éliminez les visites non qualifiées en permettant aux acheteurs de découvrir les biens de manière virtuelle avant de planifier une visite physique.</span>
+							<span>Augmentation des Ventes : Attirez plus de clients et concluez des ventes plus rapidement en proposant des visites virtuelles de qualité supérieure qui suscitent l'intérêt des acheteurs/locataires.</span>
+							<span>Réduction des Visites Inutiles : Éliminez les visites non qualifiées en permettant aux acheteurs/locataires de découvrir les biens de manière virtuelle avant de planifier une visite physique.</span>
 							<span>Marketing Innovant : Utilisez les visites virtuelles comme un outil de marketing puissant pour promouvoir vos biens et vous démarquer sur le marché.</span>
 						</div>
 					</div>

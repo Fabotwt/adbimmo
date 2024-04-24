@@ -92,7 +92,7 @@
 							<p>ADB IMMO</p>
 						</div>
 						<div class="breatcome-title">
-							<h1>NOS BIEN EN PORTEFEUILLE</h1>
+							<h1>NOS BIENS EN PORTEFEUILLE</h1>
 						</div>
 					</div>
 				</div>

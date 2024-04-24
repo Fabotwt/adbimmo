@@ -72,7 +72,8 @@
 						<h4>Gestion Transparente et Professionnelle de Votre Copropriété</h4>
 					</div>
 					<div class="service-detials-discription">
-						<p>En tant que syndic de copropriété, notre mission chez ADB IMMO est de vous offrir une gestion transparente, efficace et professionnelle de votre immeuble. Nous nous engageons à assurer le bon fonctionnement de la copropriété, 
+						<p>En tant que syndic de copropriété, notre mission chez ADB IMMO est de vous offrir une gestion transparente, efficace et professionnelle de votre immeuble ou lotissement. 
+							Nous nous engageons à assurer le bon fonctionnement de la copropriété, 
 							à préserver la valeur de votre patrimoine et à répondre aux besoins et préoccupations des copropriétaires.</p>
 					</div>
 					<div class="row">
@@ -81,7 +82,7 @@
 								<h4>Nos Services</h4>
 							</div>
 							<div class="service-detials-list">
-								<p>Nous proposons une gamme complète de services de syndic de copropriété pour répondre aux besoins spécifiques de votre immeuble :</p>
+								<p>Nous proposons une gamme complète de services de syndic de copropriété pour répondre aux besoins spécifiques de votre immeuble ou lotissement :</p>
 								<span>Gestion Administrative:</span>
 								<p>Nous nous chargeons de toutes les tâches administratives liées à la copropriété, 
 									y compris la convocation et la tenue des assemblées générales, la gestion des comptes, et la communication avec les copropriétaires.</p>
@@ -111,8 +112,8 @@
 								<p>Nous agissons avec professionnalisme et intégrité dans toutes nos interactions avec les copropriétaires, les prestataires et les autorités.</p>
 								<span>Réactivité:</span>
 								<p>Nous sommes à votre écoute et réagissons rapidement à toutes les demandes et préoccupations des copropriétaires.</p>
-								<span>Satisfaction des Locataires:</span>
-								<p> Offrez à vos locataires une expérience transparente et fluide avec un accès facile aux informations et aux services.</p>
+								<span>Satisfaction des Locataires et propriétaires:</span>
+								<p> Offrez à vos locataires et propriétaires une expérience transparente et fluide avec un accès facile aux informations et aux services.</p>
 							</div>
 						</div>
 					</div>
@@ -129,7 +130,7 @@
 				<p style="color:white;">Nous sommes votre partenaire de confiance pour la gestion <br> de votre copropriété. Notre objectif est de vous offrir une expérience sans souci et de garantir le bien-être et la tranquillité d'esprit de tous les copropriétaires.
 				</p>
 				<div style="background:#1685b6;padding:8px 12px;color:white;border-radius:5px;display:inline-block;">
-					<a href="tarifs-mission-syndic">Voir nos tarifs</a>
+					<a href="../tarifs-mission-syndic">Voir nos tarifs</a>
 				</div>
 
 

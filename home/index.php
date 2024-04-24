@@ -247,12 +247,12 @@
 						<div class="blog-content">
 							
 							<div class="blog-title">
-								<h4><a href="../service-de-plomberie">Plomberie Professionnelle</a></h4>
+								<h4><a href="../maintenance">Plomberie Professionnelle</a></h4>
 								<p>Fuites, robinets qui gouttent, tuyaux bouchés - nous avons les compétences et 
 									l'expertise nécessaires pour régler tous vos soucis de plomberie </p>	
 							</div>
 							<div class="blog-btn">
-								<a href="../service-de-plomberie">En savoir+ <i class="bi bi-arrow-up-right"></i></a>
+								<a href="../maintenance">En savoir+ <i class="bi bi-arrow-up-right"></i></a>
 							</div>
 						</div>
 					</div>
@@ -265,7 +265,7 @@
 						<div class="blog-content">
 							
 							<div class="blog-title">
-								<h4><a href="../maintenance-electrique">Services d'Électricité Fiables</a></h4>
+								<h4><a href="../maintenance">Services d'Électricité Fiables</a></h4>
 								<p>Que vous ayez besoin d'une simple réparation, d'une mise à niveau de 
 									votre système électrique, nous sommes là pour vous fournir un service 
 									fiable et de qualité.
@@ -273,7 +273,7 @@
 							</div>
 							
 							<div class="blog-btn">
-								<a href="../maintenance-electrique">En savoir+ <i class="bi bi-arrow-up-right"></i></a>
+								<a href="../maintenance">En savoir+ <i class="bi bi-arrow-up-right"></i></a>
 							</div>
 						</div>
 					</div>
@@ -281,18 +281,17 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="blog-items-box">
 						<div class="blog-thumb">
-							<img src="../assets/images/resource/soudure.png" alt="">
+							<img src="../assets/images/resource/climat.png" alt="">
 						</div>
 						<div class="blog-content">
 							
 							<div class="blog-title">
-								<h4><a href="../service-de-soudure">Expertise en Soudure</a></h4>
-								<p>nous avons les compétences et l'équipement nécessaires pour réaliser des 
-									travaux de soudure de haute qualité, 
-									garantissant la solidité et la durabilité de vos structures métalliques.</p>	
+								<h4><a href="../maintenance">Ventilation et climatisation</a></h4>
+								<p>Nous prendrons soin de vos systèmes afin que vous puissiez vous concentrer 
+									sur ce qui compte vraiment : le bien-être de vos occupants et la réussite de vos activités.</p>	
 							</div>
 							<div class="blog-btn">
-								<a href="../service-de-soudure">En savoir+ <i class="bi bi-arrow-up-right"></i></a>
+								<a href="../maintenance">En savoir+ <i class="bi bi-arrow-up-right"></i></a>
 							</div>
 						</div>
 					</div>
